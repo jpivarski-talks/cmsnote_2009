@@ -1,0 +1,143 @@
+\relax 
+\citation{tdr}
+\citation{tdr}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Momentum resolution of the inner tracker, muon system, and combined system, as a function of $p_T$ and $\eta $. (Source: Physics TDR\nobreakspace  {}\cite  {tdr}) }}{3}}
+\newlabel{fig:tdr_muon_resolution}{{1}{3}}
+\citation{internal_dt}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Geometry of the muon system}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces A quarter-view of CMS with labeled muon barrel (MB) and endcap (ME) stations. }}{5}}
+\newlabel{fig:muon_system_labeled}{{2}{5}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Geographical organization of muon chambers. }}{6}}
+\newlabel{tab:geometry}{{1}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Description of the global alignment algorithm}{6}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Definitions and correspondance of coordinate systems. }}{7}}
+\newlabel{tab:local_coordinates}{{2}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Alignment datasets and track-fitting procedures}{8}}
+\newlabel{page:AlCaReco}{{2.1}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Calculation of super-residuals}{9}}
+\newlabel{sec:super_residuals}{{2.2}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces A super-residual is the constant from a linear fit to residuals vs.\ local $z$, and is therefore a better measure of the ``residual at chamber center'' than the average of residuals. }}{10}}
+\newlabel{fig:superresidual0}{{3}{10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Local $x$ and $y$ coordinates in DT chambers are rectilinear, but the fanning of CSC strips makes it more convenient to measure residuals and align CSCs in curvilinear $r\phi $. }}{11}}
+\newlabel{fig:csc_localrphi}{{4}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Fitting the super-residuals distribution}{11}}
+\newlabel{sec:fitting}{{2.3}{11}}
+\newlabel{eqn:fitfunction}{{4}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Super-residuals distributions have a central Gaussian core from unscattered muons and power-law tails from scattered muons. This is demonstrated by taking advantage of the fact that scattering is highly correlated with $p_T$. }}{12}}
+\newlabel{fig:residuals_barrel}{{5}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Fit function for residuals with a Gaussian core and power-law tails. The residuals in this plot were selected from a geographically small region of the detector (within DT\nobreakspace  {}station\nobreakspace  {}4, wheel\nobreakspace  {}0) to avoid smearing from misalignment, and the fit was performed without binning. }}{12}}
+\newlabel{fig:fitfunction}{{6}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces If the chamber is rotated in its layer plane ($\phi _z$ misalignment), the crest of the $\Delta x$ residuals distribution will vary with $y$ impact point as $\Delta x = \qopname  \relax o{sin}\phi _z \cdot y$ or $\Delta x \approx \phi _z \tmspace  +\thinmuskip {.1667em} y$. We include $\phi _z$ as a free parameter in the fit to perform this alignment, simultaneously with $\delta x$. The same holds for $\Delta y$ residuals and the $x$ impact point. }}{13}}
+\newlabel{fig:phiz}{{7}{13}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Determining alignment parameters from fits}{13}}
+\newlabel{sec:alignment_from_fits}{{2.4}{13}}
+\newlabel{fig:zpos_a}{{8(a)}{14}}
+\newlabel{sub@fig:zpos_a}{{(a)}{14}}
+\newlabel{fig:zpos_b}{{8(b)}{14}}
+\newlabel{sub@fig:zpos_b}{{(b)}{14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Misalignments perpendicular to the measurement plane (local $z$) are included in the fit as a linear trend with respect to track entrance angle (which is often correlated with impact point). The same holds for $\Delta y$ residuals and the $dy/dz$ track entrance angle. }}{14}}
+\newlabel{fig:zpos}{{8}{14}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Linear relationship between $\Delta x$ residuals, $\delta z$ misalignment, and $dx/dz$ track angle: \unhbox \voidb@x \hbox {$\Delta x = (dx/dz) \tmspace +\thinmuskip {.1667em} \delta z$}}}}{14}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Correlation between $x$ impact point and $dx/dz$ track angle for tracks that pass close to the origin}}}{14}}
+\newlabel{eqn:first_correction}{{5}{14}}
+\newlabel{eqn:dydz_extrapolation}{{8}{14}}
+\newlabel{eqn:last_correction}{{8}{14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Super-residuals have both a value at the chamber center and a slope. The $dx/dz$ slopes are used to align $\phi _y$ and the $dy/dz$ slopes (where available) align $\phi _x$. }}{15}}
+\newlabel{fig:superresid_slope}{{9}{15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces A 3-dimensional effect in which $\phi _z$ misalignments can masquerade as $\phi _y$ misalignments when the track source is asymmetric in $dy/dz$ entrance angles. }}{16}}
+\newlabel{fig:motivation_for_angle_controls}{{10}{16}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Correlation between super-residual position error and angle error. }}{16}}
+\newlabel{fig:sawtooth_diagram}{{11}{16}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.5}Accomodating errors in magnetic field and material budget}{17}}
+\newlabel{sec:bfield_errors}{{2.5}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces The six independent fits needed to align one DT chamber and one CSC. }}{18}}
+\newlabel{tab:parameters}{{12}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces If the $z$ component of the magnetic field is poorly understood at the time of alignment, the error it contributes to residuals would be proportional to $q/p_T$. }}{19}}
+\newlabel{fig:bfield}{{13}{19}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Diagram for derivation: $x$ is the displacement between straight and helical propagation of a track with radius of curvature $R$ at a distance $\ell $ from the interaction point. If the field is mis-modelled, it would contribute $\Delta x = x_{\unhbox \voidb@x \hbox {\relax \fontsize {8}{9.5}\selectfont track}} - x_{\unhbox \voidb@x \hbox {\relax \fontsize {8}{9.5}\selectfont muon}}$ to the residual, the difference of two helical propagations with different radii.}}}{19}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Derivation of residuals dependence on $q/p_T$ if the magnetic field is mis-modelled. If the $B_z$ error is also non-uniform, the above holds with ``$\Delta B_z$'' being a (non-trivial) quantity derived from field error along the track's path.}}}{19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces A summary of magnetic field components which affect residuals. }}{19}}
+\newlabel{fig:bfield_components}{{14}{19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Magnetic field errors would also affect super-residual slopes. }}{20}}
+\newlabel{fig:superresid_bfield}{{15}{20}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Track angles are deflected $\phi = \qopname \relax o{sin}^{-1} \ell /R \approx \ell /R$ relative to a straight-line propagation. If the magnetic field is mis-modelled, it would add \unhbox \voidb@x \hbox {$\Delta \phi = \phi _{\unhbox \voidb@x \hbox {\relax \fontsize {8}{9.5}\selectfont track}} - \phi _{\unhbox \voidb@x \hbox {\relax \fontsize {8}{9.5}\selectfont muon}}$} to the super-residual slope.}}}{20}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Derivation of super-residual angle in the presence of mis-modelled $B_z$. If non-uniform, ``$\Delta B_z$'' is a simple average of magnetic field error along the track's path.}}}{20}}
+\newlabel{fig:antisymmetric_bfield}{{16(a)}{21}}
+\newlabel{sub@fig:antisymmetric_bfield}{{(a)}{21}}
+\newlabel{fig:demo_residual}{{16(b)}{21}}
+\newlabel{sub@fig:demo_residual}{{(b)}{21}}
+\newlabel{fig:demo_momentum}{{16(c)}{21}}
+\newlabel{sub@fig:demo_momentum}{{(c)}{21}}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces The two-bin method for cancelling $\mathaccentV {vec}17E{B}$ and $dE/dx$ errors: compute corrections separately for positive muons and negative muons, then average the two results. }}{21}}
+\newlabel{fig:twobin_method}{{16}{21}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Both $\mathaccentV{vec}17E{B}$ and $dE/dx$ errors affect postive and negative muons in opposite ways.}}}{21}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {The two effects depend on momentum, but are still antisymmetric for charges in a given momentum bin.}}}{21}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {The momentum spectra for the two charges are proportional (cosmic rays shown above).}}}{21}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Monitoring Tools and Validation/Verification}{21}}
+\citation{SWGuideMuonGeometryConversion}
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces Alignment residuals and the error tracer before and after a correction to the magnetic field map (in DT\nobreakspace  {}station\nobreakspace  {}4 with cosmic rays). The alignment residuals are unaffected by the large change in magnetic field values (20--30\%). }}{22}}
+\newlabel{fig:twobin_robust}{{17}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Comparison of geometries in the database}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Validating residuals fits}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Muon system maps}{23}}
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces Residuals fits for DT superlayers 1 and 3 (top), DT superlayer 2 (middle), and CSCs (bottom), from Monte Carlo with random misalignment. See text for a full description. }}{24}}
+\newlabel{fig:residualsfit}{{18}{24}}
+\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces Three maps of residuals before and after alignment in Monte Carlo: DT station 1, wheel 0 (top), station 4 wheel $+$2 (middle), and CSC ME$+$1, chamber 18 (bottom). Chamber identities were not used to make the plots; boundaries are overlaid on the results. }}{25}}
+\newlabel{fig:examplemap_rphi}{{19}{25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {20}{\ignorespaces Results of $\delta _z$ fits (radial alignment for DT chambers) as a function of global $z$ position. Results agree within each chamber and disagree with their neighbors, indicating real radial misalignments. }}{26}}
+\newlabel{fig:examplemap_zpos}{{20}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Verification with relative residuals}{26}}
+\@writefile{lof}{\contentsline {figure}{\numberline {21}{\ignorespaces Relative residuals are linearly independent from the residuals used in alignment, and can therefore verify its correctness. PLACEHOLDER! This plot is from the old (3-parameter) CRAFT alignment. AND it's the only one that showed (marginal) improvement--- stations 1$-$2 and 3$-$4 showed (marginal) degradation. (We interpret the three as indicating no net change in {\it  relative} positions.) In the new plot, we'll combine all stations, since they have comparable widths. }}{27}}
+\newlabel{fig:residuals_difference}{{21}{27}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Global alignment results with collisions Monte Carlo}{28}}
+\newlabel{sec:mcstudy}{{4}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Scaling with statistics}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Dependence on tracker misalignment}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Dependence on magnetic field errors}{28}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Global alignment results with cosmic ray data}{28}}
+\newlabel{sec:craft}{{5}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Validation plots}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Verification with relative residuals}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Verification with stand-alone muon alignments}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Verification with cosmic track splitting}{28}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Relative alignment of CSCs with local tracks}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Description of the CSC Overlaps algorithm}{29}}
+\newlabel{sec:overlaps_algorithm}{{6.1}{29}}
+\newlabel{eqn:NbyNmatrix}{{15}{30}}
+\newlabel{eqn:average}{{17}{30}}
+\newlabel{eqn:solution}{{19}{31}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Local CSC alignment parameters}{31}}
+\@writefile{lof}{\contentsline {figure}{\numberline {22}{\ignorespaces The three alignment parameters accessible to local track matching in CSCs. }}{32}}
+\newlabel{fig:overlaps_parameters}{{22}{32}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Determination of $\phi _y$ from slopes.}}}{32}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Determination of $\delta _{r\phi }$ from intercepts at $z=0$.}}}{32}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {Determination of $\phi _z$ from $d(\Delta a)/dy$.}}}{32}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Specialized trigger and data streams}{32}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.4}Results from the 2008 LHC run}{33}}
+\citation{photogrammetry}
+\@writefile{lof}{\contentsline {figure}{\numberline {23}{\ignorespaces Comparison of alignment parameters with MC truth before (dark) and after (light) a simulated beam-halo alignment with similar statistics to the 2008 LHC run. }}{34}}
+\newlabel{fig:overlaps_mc}{{23}{34}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {$\phi _y$ precision is $\sim $1\nobreakspace {}mrad}}}{34}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {$\delta _{r\phi }$ precision is $\sim $230\nobreakspace {}$\mu $m}}}{34}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {$\phi _z$ precision is $\sim $0.25\nobreakspace {}mrad}}}{34}}
+\@writefile{lof}{\contentsline {figure}{\numberline {24}{\ignorespaces CSC alignment results from the Overlaps procedure and the 2008 LHC run, presented as a difference from ideal and compared with photogrammetry where possible. }}{35}}
+\newlabel{fig:overlaps_data1}{{24}{35}}
+\@writefile{lof}{\contentsline {figure}{\numberline {25}{\ignorespaces Chamber-by-chamber verification of the beam-halo alignment with photogrammetry. The dark histogram is before alignment; the light histogram and statistics box are after alignment. }}{36}}
+\newlabel{fig:overlaps_data2}{{25}{36}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.5}Extension to align CSC layers}{36}}
+\newlabel{sec:CSC_layer_alignment}{{6.5}{36}}
+\@writefile{lof}{\contentsline {figure}{\numberline {26}{\ignorespaces Even when a track is constrained to two only layers, the positions of the other layers can only be determined up to a collective offset and a collective skew. The two situations depicted here are indistinguishable. }}{37}}
+\newlabel{fig:layer_alignment_skew}{{26}{37}}
+\@writefile{lof}{\contentsline {figure}{\numberline {27}{\ignorespaces Method for aligning layers within chambers: constrain a linear track to the first and last layers in a two-chamber overlap, then align the remaining layers to that track. }}{37}}
+\newlabel{fig:layer_alignment_noskew}{{27}{37}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.6}Verifying the global procedure with local alignment}{37}}
+\@writefile{lof}{\contentsline {figure}{\numberline {28}{\ignorespaces Layer alignment results in ME$-$2/1 and $-$3/1, excluding layers fixed by definition. }}{38}}
+\newlabel{fig:layer_hist}{{28}{38}}
+\bibcite{tdr}{1}
+\@writefile{lof}{\contentsline {figure}{\numberline {29}{\ignorespaces PLACEHOLDER! Track and mass resolutions with 2008-STARTUP, 50, 200\nobreakspace  {}pb$^{-1}$, and ideal scenarios from the new MC studies. }}{39}}
+\newlabel{fig:curvature_resolution}{{29}{39}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Alignment outlook for 2009--2010}{39}}
+\bibcite{internal_dt}{2}
+\bibcite{photogrammetry}{3}
+\bibcite{SWGuideMuonGeometryConversion}{4}

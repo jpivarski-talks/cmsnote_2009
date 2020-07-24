@@ -1,0 +1,745 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.8.3)  1 MAY 2009 18:01
+entering extended mode
+ %&-line parsing enabled.
+**TrackBasedAlignmentNote_v2.tex
+(./TrackBasedAlignmentNote_v2.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen114
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen115
+\subfiglabelskip=\skip49
+\c@subfigure=\count100
+\c@lofdepth=\count101
+\c@subtable=\count102
+\c@lotdepth=\count103
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(./TrackBasedAlignmentNote_v2.aux)
+\openout1 = `TrackBasedAlignmentNote_v2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./TrackBasedAlignmentNote
+_v2.toc)
+\tf@toc=\write3
+\openout3 = `TrackBasedAlignmentNote_v2.toc'.
+
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 39.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+
+<Figure_001-005-a.pdf, id=13, 569.12625pt x 651.43375pt>
+File: Figure_001-005-a.pdf Graphic file (type pdf)
+
+<use Figure_001-005-a.pdf>
+<Figure_001-005-b.pdf, id=14, 569.12625pt x 652.4375pt>
+File: Figure_001-005-b.pdf Graphic file (type pdf)
+
+<use Figure_001-005-b.pdf> [3 <./Figure_001-005-a.pdf
+
+pdfTeX warning: pdflatex (file ./Figure_001-005-a.pdf): PDF inclusion: Page Gro
+up detected which pdfTeX can't handle. Ignoring it.
+> <./Figure_001-005-b.pdf
+
+pdfTeX warning: pdflatex (file ./Figure_001-005-b.pdf): PDF inclusion: Page Gro
+up detected which pdfTeX can't handle. Ignoring it.
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+[]\OT1/cmr/m/n/12 physically
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\OT1/cmr/m/n/12 move-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\OT1/cmr/m/n/12 trans-verse
+ []
+
+
+Overfull \hbox (2.36833pt too wide) in paragraph at lines 140--140
+[]\OT1/cmr/m/n/12 stations| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]\OT1/cmr/m/n/12 1--12
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\OT1/cmr/m/n/12 back-ward
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+[]\OT1/cmr/m/n/12 physically
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\OT1/cmr/m/n/12 move-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\OT1/cmr/m/n/12 trans-verse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\OT1/cmr/m/n/12 rings
+ []
+
+
+Overfull \hbox (2.11002pt too wide) in paragraph at lines 146--146
+[]| 
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 146--147
+\OT1/cmr/m/n/12 ra-dius from
+ []
+
+
+Overfull \hbox (1.06558pt too wide) in paragraph at lines 147--147
+[]\OT1/cmr/m/n/12 chambers| 
+ []
+
+<muon_system_labeled.pdf, id=29, 370.38374pt x 276.03125pt>
+File: muon_system_labeled.pdf Graphic file (type pdf)
+
+<use muon_system_labeled.pdf>
+Overfull \hbox (59.57198pt too wide) in paragraph at lines 155--156
+[]  [] 
+ []
+
+[4] [5 <./muon_system_labeled.pdf
+
+pdfTeX warning: pdflatex (file ./muon_system_labeled.pdf): PDF inclusion: Page 
+Group detected which pdfTeX can't handle. Ignoring it.
+>] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+[]\OT1/cmr/m/n/12 nominal in-ter-ac-
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 218--219
+[]\OT1/cmr/m/n/12 superlayer 1 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\OT1/cmr/m/n/12 3 mea-sure-ment,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+[]\OT1/cmr/m/n/12 out of plane,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+\OT1/cmr/m/n/12 roughly ra-dial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+[]\OT1/cmr/m/n/12 strip mea-sure-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+\OT1/cmr/m/n/12 ment, roughly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+[]\OT1/cmr/m/n/12 wire mea-sure-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+\OT1/cmr/m/n/12 ment, roughly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+[]\OT1/cmr/m/n/12 out of plane,
+ []
+
+
+Overfull \hbox (8.21776pt too wide) in paragraph at lines 207--230
+ [] 
+ []
+
+
+Overfull \hbox (1.34567pt too wide) in paragraph at lines 260--275
+[]\OT1/cmr/m/n/12 In com-par-i-son with the sil-i-con tracker case, how-ever, i
+n-di-vid-ual tracks prop-a-gated through
+ []
+
+[7] [8] [9] <superresidual2.pdf, id=54, 191.79106pt x 88.75954pt>
+File: superresidual2.pdf Graphic file (type pdf)
+
+<use superresidual2.pdf> [10 <./superresidual2.pdf
+
+pdfTeX warning: pdflatex (file ./superresidual2.pdf): PDF inclusion: Page Group
+ detected which pdfTeX can't handle. Ignoring it.
+>] <strip_direction.pdf, id=61, 481.86069pt x 99.31703pt>
+File: strip_direction.pdf Graphic file (type pdf)
+
+<use strip_direction.pdf>
+Overfull \hbox (12.10452pt too wide) in paragraph at lines 481--481
+ [] 
+ []
+
+[11 <./strip_direction.pdf
+
+pdfTeX warning: pdflatex (file ./strip_direction.pdf): PDF inclusion: Page Grou
+p detected which pdfTeX can't handle. Ignoring it.
+>] <phiz_diagram.pdf, id=68, 262.74854pt x 98.89491pt>
+File: phiz_diagram.pdf Graphic file (type pdf)
+ <use phiz_diagram.pdf>
+Overfull \hbox (74.84875pt too wide) in paragraph at lines 511--511
+ [] 
+ []
+
+<zpos_diagram.pdf, id=69, 185.86174pt x 107.6553pt>
+File: zpos_diagram.pdf Graphic file (type pdf)
+ <use zpos_diagram.pdf>
+[12 <./phiz_diagram.pdf
+
+pdfTeX warning: pdflatex (file ./phiz_diagram.pdf): PDF inclusion: Page Group d
+etected which pdfTeX can't handle. Ignoring it.
+> <./zpos_diagram.pdf
+
+pdfTeX warning: pdflatex (file ./zpos_diagram.pdf): PDF inclusion: Page Group d
+etected which pdfTeX can't handle. Ignoring it.
+>]
+Overfull \hbox (22.67096pt too wide) detected at line 622
+[] \OT1/cmr/m/n/12 = [] [] []
+ []
+
+<geometryonly_dt.pdf, id=83, 569.055pt x 306.16783pt>
+File: geometryonly_dt.pdf Graphic file (type pdf)
+
+<use geometryonly_dt.pdf>
+<geometryonly_csc.pdf, id=84, 569.055pt x 306.16783pt>
+File: geometryonly_csc.pdf Graphic file (type pdf)
+
+<use geometryonly_csc.pdf> [13] [14 <./geometryonly_dt.pdf
+
+pdfTeX warning: pdflatex (file ./geometryonly_dt.pdf): PDF inclusion: Page Grou
+p detected which pdfTeX can't handle. Ignoring it.
+> <./geometryonly_csc.pdf
+
+pdfTeX warning: pdflatex (file ./geometryonly_csc.pdf): PDF inclusion: Page Gro
+up detected which pdfTeX can't handle. Ignoring it.
+>] <residuals_barrel.pdf, id=98, 470.75874pt x 569.12625pt>
+File: residuals_barrel.pdf Graphic file (type pdf)
+
+<use residuals_barrel.pdf> <fitfunction.pdf, id=99, 512.26826pt x 547.64499pt>
+File: fitfunction.pdf Graphic file (type pdf)
+
+<use fitfunction.pdf>
+<sawtooth_diagram.pdf, id=100, 325.18633pt x 180.70445pt>
+File: sawtooth_diagram.pdf Graphic file (type pdf)
+
+<use sawtooth_diagram.pdf> [15 <./residuals_barrel.pdf
+
+pdfTeX warning: pdflatex (file ./residuals_barrel.pdf): PDF inclusion: Page Gro
+up detected which pdfTeX can't handle. Ignoring it.
+>] [16 <./fitfunction.pdf
+
+pdfTeX warning: pdflatex (file ./fitfunction.pdf): PDF inclusion: Page Group de
+tected which pdfTeX can't handle. Ignoring it.
+> <./sawtooth_diagram.pdf
+
+pdfTeX warning: pdflatex (file ./sawtooth_diagram.pdf): PDF inclusion: Page Gro
+up detected which pdfTeX can't handle. Ignoring it.
+>] [17] <bfield_diagram.pdf, id=119, 225.17924pt x 162.60986pt>
+File: bfield_diagram.pdf Graphic file (type pdf)
+
+<use bfield_diagram.pdf>
+Overfull \hbox (13.79039pt too wide) in paragraph at lines 806--806
+[][]
+ []
+
+<bfield_components.pdf, id=120, 121.47173pt x 138.50922pt>
+File: bfield_components.pdf Graphic file (type pdf)
+
+<use bfield_components.pdf>
+Overfull \hbox (26.73717pt too wide) in paragraph at lines 839--857
+ [] 
+ []
+
+<bfieldangle_diagram.pdf, id=121, 225.17924pt x 162.60986pt>
+File: bfieldangle_diagram.pdf Graphic file (type pdf)
+
+<use bfieldangle_diagram.pdf>
+Overfull \hbox (13.79039pt too wide) in paragraph at lines 862--862
+[][]
+ []
+
+
+Overfull \hbox (28.32025pt too wide) in alignment at lines 870--870
+ [][][] []
+ []
+
+[18 <./bfield_diagram.pdf
+
+pdfTeX warning: pdflatex (file ./bfield_diagram.pdf): PDF inclusion: Page Group
+ detected which pdfTeX can't handle. Ignoring it.
+>] [19 <./bfield_components.pdf
+
+pdfTeX warning: pdflatex (file ./bfield_components.pdf): PDF inclusion: Page Gr
+oup detected which pdfTeX can't handle. Ignoring it.
+> <./bfieldangle_diagram.pdf
+
+pdfTeX warning: pdflatex (file ./bfieldangle_diagram.pdf): PDF inclusion: Page 
+Group detected which pdfTeX can't handle. Ignoring it.
+>] <antisymmetric_bfield.pdf, id=140, 123.98587pt x 111.22792pt>
+File: antisymmetric_bfield.pdf Graphic file (type pdf)
+
+<use antisymmetric_bfield.pdf>
+Underfull \hbox (badness 2065) in paragraph at lines 909--909
+\OT1/cmr/m/n/10 a-tive muons in op-po-site
+ []
+
+<demo_residual.pdf, id=141, 520.94624pt x 569.12625pt>
+File: demo_residual.pdf Graphic file (type pdf)
+ <use demo_residual.pdf>
+<demo_momentum.pdf, id=142, 520.94624pt x 569.12625pt>
+File: demo_momentum.pdf Graphic file (type pdf)
+ <use demo_momentum.pdf>
+[20 <./antisymmetric_bfield.pdf
+
+pdfTeX warning: pdflatex (file ./antisymmetric_bfield.pdf): PDF inclusion: Page
+ Group detected which pdfTeX can't handle. Ignoring it.
+> <./demo_residual.pdf
+
+pdfTeX warning: pdflatex (file ./demo_residual.pdf): PDF inclusion: Page Group 
+detected which pdfTeX can't handle. Ignoring it.
+> <./demo_momentum.pdf
+
+pdfTeX warning: pdflatex (file ./demo_momentum.pdf): PDF inclusion: Page Group 
+detected which pdfTeX can't handle. Ignoring it.
+>] <explanation_of_z.pdf, id=156, 322.2586pt x 130.33344pt>
+File: explanation_of_z.pdf Graphic file (type pdf)
+
+<use explanation_of_z.pdf>
+<robustness_alignment1.pdf, id=157, 520.94624pt x 569.12625pt>
+File: robustness_alignment1.pdf Graphic file (type pdf)
+
+<use robustness_alignment1.pdf>
+<robustness_errortracer2.pdf, id=158, 520.94624pt x 569.12625pt>
+File: robustness_errortracer2.pdf Graphic file (type pdf)
+
+<use robustness_errortracer2.pdf> [21 <./explanation_of_z.pdf
+
+pdfTeX warning: pdflatex (file ./explanation_of_z.pdf): PDF inclusion: Page Gro
+up detected which pdfTeX can't handle. Ignoring it.
+>] [22 <./robustness_alignment1.pdf
+
+pdfTeX warning: pdflatex (file ./robustness_alignment1.pdf): PDF inclusion: Pag
+e Group detected which pdfTeX can't handle. Ignoring it.
+> <./robustness_errortracer2.pdf
+
+pdfTeX warning: pdflatex (file ./robustness_errortracer2.pdf): PDF inclusion: P
+age Group detected which pdfTeX can't handle. Ignoring it.
+>] <mcfit_extreme_corner2.pdf, id=174, 306.14375pt x 569.12625pt>
+File: mcfit_extreme_corner2.pdf Graphic file (type pdf)
+
+<use mcfit_extreme_corner2.pdf>
+<mcfit_misal_and_nongeom.pdf, id=175, 569.055pt x 331.32188pt>
+File: mcfit_misal_and_nongeom.pdf Graphic file (type pdf)
+
+<use mcfit_misal_and_nongeom.pdf>
+<trackangle_correlation.pdf, id=176, 157.141pt x 105.95271pt>
+File: trackangle_correlation.pdf Graphic file (type pdf)
+
+<use trackangle_correlation.pdf>
+<mcfit_misal_and_nongeom_aligned.pdf, id=177, 569.055pt x 331.53258pt>
+File: mcfit_misal_and_nongeom_aligned.pdf Graphic file (type pdf)
+
+<use mcfit_misal_and_nongeom_aligned.pdf> [23 <./mcfit_extreme_corner2.pdf>]
+[24 <./mcfit_misal_and_nongeom.pdf
+
+pdfTeX warning: pdflatex (file ./mcfit_misal_and_nongeom.pdf): PDF inclusion: P
+age Group detected which pdfTeX can't handle. Ignoring it.
+> <./trackangle_correlation.pdf
+
+pdfTeX warning: pdflatex (file ./trackangle_correlation.pdf): PDF inclusion: Pa
+ge Group detected which pdfTeX can't handle. Ignoring it.
+>] [25 <./mcfit_misal_and_nongeom_aligned.pdf
+
+pdfTeX warning: pdflatex (file ./mcfit_misal_and_nongeom_aligned.pdf): PDF incl
+usion: Page Group detected which pdfTeX can't handle. Ignoring it.
+>] <examplemap_rphi1.pdf, id=240, 306.14375pt x 569.12625pt>
+File: examplemap_rphi1.pdf Graphic file (type pdf)
+
+<use examplemap_rphi1.pdf>
+<examplemap_rphi4.pdf, id=241, 306.14375pt x 569.12625pt>
+File: examplemap_rphi4.pdf Graphic file (type pdf)
+
+<use examplemap_rphi4.pdf>
+<examplemap_CSCrphi1.pdf, id=242, 306.14375pt x 569.12625pt>
+File: examplemap_CSCrphi1.pdf Graphic file (type pdf)
+
+<use examplemap_CSCrphi1.pdf>
+
+LaTeX Warning: Float too large for page by 13.89212pt on input line 1127.
+
+<examplemap_DATAzpos.pdf, id=243, 256.96pt x 569.12625pt>
+File: examplemap_DATAzpos.pdf Graphic file (type pdf)
+
+<use examplemap_DATAzpos.pdf>
+<residuals_difference.pdf, id=244, 194.55544pt x 249.70087pt>
+File: residuals_difference.pdf Graphic file (type pdf)
+
+<use residuals_difference.pdf>
+<residdiff23.pdf, id=245, 520.94624pt x 569.12625pt>
+File: residdiff23.pdf Graphic file (type pdf)
+ <use residdiff23.pdf>
+[26] [27 <./examplemap_rphi1.pdf> <./examplemap_rphi4.pdf> <./examplemap_CSCrph
+i1.pdf>] [28 <./examplemap_DATAzpos.pdf> <./residuals_difference.pdf
+
+pdfTeX warning: pdflatex (file ./residuals_difference.pdf): PDF inclusion: Page
+ Group detected which pdfTeX can't handle. Ignoring it.
+> <./residdiff23.pdf>] [29] [30] [31] [32]
+Overfull \hbox (9.0429pt too wide) in paragraph at lines 1509--1511
+[]\OT1/cmr/m/n/12 the rel-a-tive $\OML/cmm/m/it/12 ^^^[]$ \OT1/cmr/m/n/12 an-gl
+e is the dif-fer-ence in in-ter-cepts as a func-tion of hit po-si-tion ($\OML/c
+mm/m/it/12 d\OT1/cmr/m/n/12 (^^A\OML/cmm/m/it/12 a\OT1/cmr/m/n/12 )\OML/cmm/m/i
+t/12 =dy$\OT1/cmr/m/n/12 ). 
+ []
+
+<topview_1.pdf, id=487, 307.53769pt x 128.35275pt>
+File: topview_1.pdf Graphic file (type pdf)
+ <use topview_1.pdf>
+<topview_2.pdf, id=488, 312.82588pt x 131.35963pt>
+File: topview_2.pdf Graphic file (type pdf)
+ <use topview_2.pdf>
+<sideview.pdf, id=489, 203.80074pt x 168.19223pt>
+File: sideview.pdf Graphic file (type pdf)
+ <use sideview.pdf> [33 <./topview_1.pdf
+
+pdfTeX warning: pdflatex (file ./topview_1.pdf): PDF inclusion: Page Group dete
+cted which pdfTeX can't handle. Ignoring it.
+> <./topview_2.pdf
+
+pdfTeX warning: pdflatex (file ./topview_2.pdf): PDF inclusion: Page Group dete
+cted which pdfTeX can't handle. Ignoring it.
+> <./sideview.pdf
+
+pdfTeX warning: pdflatex (file ./sideview.pdf): PDF inclusion: Page Group detec
+ted which pdfTeX can't handle. Ignoring it.
+>] [34] <mcchamber_phiy.pdf, id=505, 520.94624pt x 569.12625pt>
+File: mcchamber_phiy.pdf Graphic file (type pdf)
+
+<use mcchamber_phiy.pdf>
+<mcchamber_rphi.pdf, id=506, 520.94624pt x 569.12625pt>
+File: mcchamber_rphi.pdf Graphic file (type pdf)
+
+<use mcchamber_rphi.pdf>
+<mcchamber_phiz.pdf, id=507, 520.94624pt x 569.12625pt>
+File: mcchamber_phiz.pdf Graphic file (type pdf)
+
+<use mcchamber_phiz.pdf>
+<compare_m21_phiy.pdf, id=508, 306.14375pt x 569.12625pt>
+File: compare_m21_phiy.pdf Graphic file (type pdf)
+
+<use compare_m21_phiy.pdf>
+<compare_m31_phiy.pdf, id=509, 306.14375pt x 569.12625pt>
+File: compare_m31_phiy.pdf Graphic file (type pdf)
+
+<use compare_m31_phiy.pdf>
+<compare_m21_x.pdf, id=510, 306.14375pt x 569.12625pt>
+File: compare_m21_x.pdf Graphic file (type pdf)
+ <use compare_m21_x.pdf>
+<compare_m31_x.pdf, id=511, 306.14375pt x 569.12625pt>
+File: compare_m31_x.pdf Graphic file (type pdf)
+ <use compare_m31_x.pdf>
+<compare_m21_phiz.pdf, id=512, 306.14375pt x 569.12625pt>
+File: compare_m21_phiz.pdf Graphic file (type pdf)
+
+<use compare_m21_phiz.pdf>
+<compare_m31_phiz.pdf, id=513, 306.14375pt x 569.12625pt>
+File: compare_m31_phiz.pdf Graphic file (type pdf)
+
+<use compare_m31_phiz.pdf>
+Overfull \hbox (93.94955pt too wide) in paragraph at lines 1638--1645
+ []$ 
+ []
+
+[35 <./mcchamber_phiy.pdf
+
+pdfTeX warning: pdflatex (file ./mcchamber_phiy.pdf): PDF inclusion: Page Group
+ detected which pdfTeX can't handle. Ignoring it.
+> <./mcchamber_rphi.pdf
+
+pdfTeX warning: pdflatex (file ./mcchamber_rphi.pdf): PDF inclusion: Page Group
+ detected which pdfTeX can't handle. Ignoring it.
+> <./mcchamber_phiz.pdf
+
+pdfTeX warning: pdflatex (file ./mcchamber_phiz.pdf): PDF inclusion: Page Group
+ detected which pdfTeX can't handle. Ignoring it.
+>] [36 <./compare_m21_phiy.pdf
+
+pdfTeX warning: pdflatex (file ./compare_m21_phiy.pdf): PDF inclusion: Page Gro
+up detected which pdfTeX can't handle. Ignoring it.
+> <./compare_m31_phiy.pdf
+
+pdfTeX warning: pdflatex (file ./compare_m31_phiy.pdf): PDF inclusion: Page Gro
+up detected which pdfTeX can't handle. Ignoring it.
+> <./compare_m21_x.pdf
+
+pdfTeX warning: pdflatex (file ./compare_m21_x.pdf): PDF inclusion: Page Group 
+detected which pdfTeX can't handle. Ignoring it.
+> <./compare_m31_x.pdf
+
+pdfTeX warning: pdflatex (file ./compare_m31_x.pdf): PDF inclusion: Page Group 
+detected which pdfTeX can't handle. Ignoring it.
+> <./compare_m21_phiz.pdf
+
+pdfTeX warning: pdflatex (file ./compare_m21_phiz.pdf): PDF inclusion: Page Gro
+up detected which pdfTeX can't handle. Ignoring it.
+> <./compare_m31_phiz.pdf
+
+pdfTeX warning: pdflatex (file ./compare_m31_phiz.pdf): PDF inclusion: Page Gro
+up detected which pdfTeX can't handle. Ignoring it.
+>] <delta_translations_goodcolors.pdf, id=547, 520.94624pt x 569.12625pt>
+File: delta_translations_goodcolors.pdf Graphic file (type pdf)
+
+<use delta_translations_goodcolors.pdf>
+<delta_rotations_goodcolors.pdf, id=548, 520.94624pt x 569.12625pt>
+File: delta_rotations_goodcolors.pdf Graphic file (type pdf)
+
+<use delta_rotations_goodcolors.pdf> [37 <./delta_translations_goodcolors.pdf
+
+pdfTeX warning: pdflatex (file ./delta_translations_goodcolors.pdf): PDF inclus
+ion: Page Group detected which pdfTeX can't handle. Ignoring it.
+> <./delta_rotations_goodcolors.pdf
+
+pdfTeX warning: pdflatex (file ./delta_rotations_goodcolors.pdf): PDF inclusion
+: Page Group detected which pdfTeX can't handle. Ignoring it.
+>] <layer_alignment_skew.pdf, id=559, 402.31561pt x 182.32304pt>
+File: layer_alignment_skew.pdf Graphic file (type pdf)
+
+<use layer_alignment_skew.pdf>
+<layer_alignment_noskew.pdf, id=560, 379.86696pt x 134.41605pt>
+File: layer_alignment_noskew.pdf Graphic file (type pdf)
+
+<use layer_alignment_noskew.pdf>
+<layer_hist.pdf, id=561, 520.94624pt x 569.12625pt>
+File: layer_hist.pdf Graphic file (type pdf)
+ <use layer_hist.pdf>
+[38 <./layer_alignment_skew.pdf
+
+pdfTeX warning: pdflatex (file ./layer_alignment_skew.pdf): PDF inclusion: Page
+ Group detected which pdfTeX can't handle. Ignoring it.
+> <./layer_alignment_noskew.pdf
+
+pdfTeX warning: pdflatex (file ./layer_alignment_noskew.pdf): PDF inclusion: Pa
+ge Group detected which pdfTeX can't handle. Ignoring it.
+>] [39 <./layer_hist.pdf
+
+pdfTeX warning: pdflatex (file ./layer_hist.pdf): PDF inclusion: Page Group det
+ected which pdfTeX can't handle. Ignoring it.
+>] <curvature_resolution.pdf, id=577, 569.12625pt x 306.14375pt>
+File: curvature_resolution.pdf Graphic file (type pdf)
+
+<use curvature_resolution.pdf>
+<mass_resolution.pdf, id=578, 569.12625pt x 306.14375pt>
+File: mass_resolution.pdf Graphic file (type pdf)
+
+<use mass_resolution.pdf> [40] [41 <./curvature_resolution.pdf> <./mass_resolut
+ion.pdf>] (./TrackBasedAlignmentNote_v2.aux) ) 
+Here is how much of TeX's memory you used:
+ 1987 strings out of 95086
+ 27151 string characters out of 1183256
+ 75376 words of memory out of 1500000
+ 5107 multiletter control sequences out of 10000+50000
+ 14181 words of font info for 55 fonts, out of 1200000 for 2000
+ 28 hyphenation exceptions out of 8191
+ 27i,16n,25p,878b,377s stack positions out of 5000i,500n,6000p,200000b,5000s
+</usr/share/texmf-texlive/fonts/t
+ype1/bluesky/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmb
+x12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmex10.pfb></usr/share
+/texmf-texlive/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf-texlive/font
+s/type1/bluesky/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/
+cmmi5.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi6.pfb></usr/shar
+e/texmf-texlive/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf-texlive/font
+s/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/c
+mr10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr12.pfb></usr/share
+/texmf-texlive/fonts/type1/bluesky/cm/cmr17.pfb></usr/share/texmf-texlive/fonts
+/type1/bluesky/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr
+7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/tex
+mf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/bluesky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy8
+.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti12.pfb></usr/share/te
+xmf-texlive/fonts/type1/bluesky/cm/cmtt12.pfb></usr/share/texmf-texlive/fonts/t
+ype1/bluesky/ams/msam10.pfb>
+Output written on TrackBasedAlignmentNote_v2.pdf (41 pages, 2108149 bytes).
+PDF statistics:
+ 667 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
+

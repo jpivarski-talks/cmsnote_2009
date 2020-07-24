@@ -1,0 +1,147 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.8.3)  8 FEB 2009 23:26
+entering extended mode
+ %&-line parsing enabled.
+**draft1.tex
+(./draft1.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+)) (./draft1.aux)
+\openout1 = `draft1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+Overfull \hbox (13.2691pt too wide) in paragraph at lines 17--17
+ [][] 
+ []
+
+<Figure_001-005-a.png, id=1, 350.30875pt x 401.5pt>
+File: Figure_001-005-a.png Graphic file (type png)
+ <use Figure_001-005-a.png>
+<Figure_001-005-b.png, id=2, 350.30875pt x 401.5pt>
+File: Figure_001-005-b.png Graphic file (type png)
+ <use Figure_001-005-b.png>
+<muon_system_labeled.pdf, id=3, 370.38374pt x 276.03125pt>
+File: muon_system_labeled.pdf Graphic file (type pdf)
+
+<use muon_system_labeled.pdf>
+<hip_explanation.png, id=4, 196.0926pt x 166.7028pt>
+File: hip_explanation.png Graphic file (type png)
+ <use hip_explanation.png>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 82.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./Figure_001-005-a.png
+> <./Figure_001-005-b.png>] [3 <./muon_system_labeled.pdf> <./hip_explanation.p
+ng>] [4] [5]
+<phiy_explanation.png, id=36, 261.25604pt x 130.44736pt>
+File: phiy_explanation.png Graphic file (type png)
+
+<use phiy_explanation.png> [6 <./phiy_explanation.png>] [7]
+Overfull \hbox (4.21992pt too wide) in paragraph at lines 355--356
+\OT1/cmtt/m/n/12 Alignment/CommonAlignmentMonitor/plugins/AlignmentMonitorMuonG
+eometryMap
+ []
+
+[8] (./draft1.aux) ) 
+Here is how much of TeX's memory you used:
+ 941 strings out of 95086
+ 11407 string characters out of 1183256
+ 58070 words of memory out of 1500000
+ 4134 multiletter control sequences out of 10000+50000
+ 12581 words of font info for 49 fonts, out of 1200000 for 2000
+ 28 hyphenation exceptions out of 8191
+ 25i,6n,24p,417b,243s stack positions out of 5000i,500n,6000p,200000b,5000s
+</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx12.pfb
+></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf-
+texlive/fonts/type1/bluesky/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1
+/bluesky/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr12.pf
+b></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr17.pfb></usr/share/texmf-
+texlive/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/b
+luesky/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy8.pfb
+></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmtt12.pfb></usr/share/texmf-
+texlive/fonts/type1/bluesky/ams/msam10.pfb>
+Output written on draft1.pdf (8 pages, 273131 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

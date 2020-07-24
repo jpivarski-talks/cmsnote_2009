@@ -1,0 +1,1301 @@
+DT chamber  Wh:-2 St:1 Se:1  (574914560): 
+
+DT chamber  Wh:-2 St:1 Se:2  (575176704): 
+
+DT chamber  Wh:-2 St:1 Se:3  (575438848): 
+
+DT chamber  Wh:-2 St:1 Se:4  (575700992): 
+
+DT chamber  Wh:-2 St:1 Se:5  (575963136): 
+
+DT chamber  Wh:-2 St:1 Se:6  (576225280): 
+
+DT chamber  Wh:-2 St:1 Se:7  (576487424): 
+
+DT chamber  Wh:-2 St:1 Se:8  (576749568): 
+
+DT chamber  Wh:-2 St:1 Se:9  (577011712): 
+
+DT chamber  Wh:-2 St:1 Se:10  (577273856): 
+
+DT chamber  Wh:-2 St:1 Se:11  (577536000): 
+
+DT chamber  Wh:-2 St:1 Se:12  (577798144): 
+
+DT chamber  Wh:-2 St:2 Se:1  (579108864): 
+
+DT chamber  Wh:-2 St:2 Se:2  (579371008): 
+
+DT chamber  Wh:-2 St:2 Se:3  (579633152): 
+
+DT chamber  Wh:-2 St:2 Se:4  (579895296): 
+
+DT chamber  Wh:-2 St:2 Se:5  (580157440): 
+
+DT chamber  Wh:-2 St:2 Se:6  (580419584): 
+
+DT chamber  Wh:-2 St:2 Se:7  (580681728): 
+
+DT chamber  Wh:-2 St:2 Se:8  (580943872): 
+
+DT chamber  Wh:-2 St:2 Se:9  (581206016): 
+
+DT chamber  Wh:-2 St:2 Se:10  (581468160): 
+    successful SL13 fit!
+    x: 0.972183 +- 0.0644142 cm (will align)
+    phiz: -0.00243742 +- 0.00123817 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.14101
+
+DT chamber  Wh:-2 St:2 Se:11  (581730304): 
+
+DT chamber  Wh:-2 St:2 Se:12  (581992448): 
+
+DT chamber  Wh:-2 St:3 Se:1  (583303168): 
+
+DT chamber  Wh:-2 St:3 Se:2  (583565312): 
+
+DT chamber  Wh:-2 St:3 Se:3  (583827456): 
+    successful SL13 fit!
+    x: 0.625198 +- 0.0325334 cm (will align)
+    phiz: 0.00118912 +- 0.000612219 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.101982
+
+DT chamber  Wh:-2 St:3 Se:4  (584089600): 
+    successful SL13 fit!
+    x: 0.0159459 +- 0.0265944 cm (will align)
+    phiz: -1.42929e-06 +- 0.00049753 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.124114
+    successful SL2 fit!
+    y: -0.0153248 +- 0.0896166 cm (will align)
+    maximal B-field error: 0.145125
+
+DT chamber  Wh:-2 St:3 Se:5  (584351744): 
+    successful SL13 fit!
+    x: 0.0117666 +- 0.0337603 cm (will align)
+    phiz: -2.15375e-05 +- 0.00065811 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.125335
+    successful SL2 fit!
+    y: -0.0107616 +- 0.0916991 cm (will align)
+    maximal B-field error: 0.201848
+
+DT chamber  Wh:-2 St:3 Se:6  (584613888): 
+
+DT chamber  Wh:-2 St:3 Se:7  (584876032): 
+
+DT chamber  Wh:-2 St:3 Se:8  (585138176): 
+
+DT chamber  Wh:-2 St:3 Se:9  (585400320): 
+    successful SL13 fit!
+    x: 0.526092 +- 0.0298075 cm (will align)
+    phiz: 0.000344335 +- 0.000558606 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0908396
+    successful SL2 fit!
+    y: 0.209553 +- 0.085416 cm (will align)
+    maximal B-field error: -0.00796422
+
+DT chamber  Wh:-2 St:3 Se:10  (585662464): 
+    successful SL13 fit!
+    x: 0.0449932 +- 0.0385545 cm (will align)
+    phiz: -0.000112818 +- 0.000721367 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.308426
+    successful SL2 fit!
+    y: 0.00474577 +- 0.0855705 cm (will align)
+    maximal B-field error: 0.282614
+
+DT chamber  Wh:-2 St:3 Se:11  (585924608): 
+    successful SL13 fit!
+    x: 0.810194 +- 0.0520945 cm (will align)
+    phiz: 0.00257968 +- 0.000965281 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.332752
+    successful SL2 fit!
+    y: -0.00210745 +- 0.0937094 cm (will align)
+    maximal B-field error: 0.183462
+
+DT chamber  Wh:-2 St:3 Se:12  (586186752): 
+
+DT chamber  Wh:-2 St:4 Se:1  (587497472): 
+
+DT chamber  Wh:-2 St:4 Se:2  (587759616): 
+
+DT chamber  Wh:-2 St:4 Se:3  (588021760): 
+    successful SL13 fit!
+    x: 1.07209 +- 0.0367776 cm (will align)
+    phiz: 0.00284679 +- 0.000688347 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.413564
+
+DT chamber  Wh:-2 St:4 Se:4  (588283904): 
+
+DT chamber  Wh:-2 St:4 Se:13  (590643200): 
+    successful SL13 fit!
+    x: 0.134026 +- 0.0297806 cm (will align)
+    phiz: -0.000968081 +- 0.000552398 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.386358
+
+DT chamber  Wh:-2 St:4 Se:5  (588546048): 
+    successful SL13 fit!
+    x: -0.297705 +- 0.0313043 cm (will align)
+    phiz: 0.000950752 +- 0.000586198 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.354876
+
+DT chamber  Wh:-2 St:4 Se:6  (588808192): 
+
+DT chamber  Wh:-2 St:4 Se:7  (589070336): 
+
+DT chamber  Wh:-2 St:4 Se:8  (589332480): 
+    successful SL13 fit!
+    x: 0.54643 +- 0.0437778 cm (will align)
+    phiz: -0.000732236 +- 0.000767187 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.386474
+
+DT chamber  Wh:-2 St:4 Se:9  (589594624): 
+    successful SL13 fit!
+    x: 0.649865 +- 0.0357312 cm (will align)
+    phiz: -0.00115177 +- 0.000654436 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.325251
+
+DT chamber  Wh:-2 St:4 Se:10  (589856768): 
+    successful SL13 fit!
+    x: 0.624704 +- 0.0412599 cm (will align)
+    phiz: -0.0025335 +- 0.000741172 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.659411
+
+DT chamber  Wh:-2 St:4 Se:14  (590905344): 
+    successful SL13 fit!
+    x: 0.829733 +- 0.0412692 cm (will align)
+    phiz: 0.000575146 +- 0.000772072 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.711995
+
+DT chamber  Wh:-2 St:4 Se:11  (590118912): 
+    successful SL13 fit!
+    x: 0.857194 +- 0.0583975 cm (will align)
+    phiz: -0.000201017 +- 0.00105677 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.544333
+
+DT chamber  Wh:-2 St:4 Se:12  (590381056): 
+    successful SL13 fit!
+    x: 0.87169 +- 0.0552091 cm (will align)
+    phiz: 0.00221324 +- 0.00100218 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.686478
+
+DT chamber  Wh:-1 St:1 Se:1  (574947328): 
+
+DT chamber  Wh:-1 St:1 Se:2  (575209472): 
+    successful SL2 fit!
+    y: -0.000626022 +- 0.0223628 cm (will align)
+    maximal B-field error: -0.0559472
+
+DT chamber  Wh:-1 St:1 Se:3  (575471616): 
+    successful SL13 fit!
+    x: -0.00396075 +- 0.0090343 cm (will align)
+    phiz: 2.36145e-05 +- 0.000202627 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0223683
+    successful SL2 fit!
+    y: -0.00146701 +- 0.0146347 cm (will align)
+    maximal B-field error: 0.0484201
+
+DT chamber  Wh:-1 St:1 Se:4  (575733760): 
+    successful SL13 fit!
+    x: 0.186297 +- 0.00628946 cm (will align)
+    phiz: -2.56224e-05 +- 0.000112249 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0219192
+    successful SL2 fit!
+    y: 0.165465 +- 0.0147764 cm (will align)
+    maximal B-field error: -0.0248662
+
+DT chamber  Wh:-1 St:1 Se:5  (575995904): 
+    successful SL13 fit!
+    x: 0.00519348 +- 0.00858494 cm (will align)
+    phiz: 1.39492e-05 +- 0.000160857 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.028574
+
+DT chamber  Wh:-1 St:1 Se:6  (576258048): 
+    successful SL2 fit!
+    y: -0.0894395 +- 0.0444583 cm (will align)
+    maximal B-field error: -0.029335
+
+DT chamber  Wh:-1 St:1 Se:7  (576520192): 
+
+DT chamber  Wh:-1 St:1 Se:8  (576782336): 
+    successful SL13 fit!
+    x: 0.0176112 +- 0.00934385 cm (will align)
+    phiz: -2.26295e-05 +- 0.000175828 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00917446
+    successful SL2 fit!
+    y: 0.00760281 +- 0.0154937 cm (will align)
+    maximal B-field error: 0.0208012
+
+DT chamber  Wh:-1 St:1 Se:9  (577044480): 
+    successful SL13 fit!
+    x: 0.0177706 +- 0.00680543 cm (will align)
+    phiz: 1.12261e-05 +- 0.000125118 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00130442
+    successful SL2 fit!
+    y: 0.00206208 +- 0.0134649 cm (will align)
+    maximal B-field error: -0.00288713
+
+DT chamber  Wh:-1 St:1 Se:10  (577306624): 
+    successful SL13 fit!
+    x: -0.00140029 +- 0.00551185 cm (will align)
+    phiz: -1.4981e-06 +- 0.000102685 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0182831
+    successful SL2 fit!
+    y: -2.41375e-06 +- 0.0144716 cm (will align)
+    maximal B-field error: 0.0109107
+
+DT chamber  Wh:-1 St:1 Se:11  (577568768): 
+    successful SL13 fit!
+    x: -0.00303942 +- 0.0091587 cm (will align)
+    phiz: 1.08188e-05 +- 0.000170988 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0336616
+    successful SL2 fit!
+    y: 0.000550064 +- 0.0148822 cm (will align)
+    maximal B-field error: -0.00668959
+
+DT chamber  Wh:-1 St:1 Se:12  (577830912): 
+    successful SL13 fit!
+    x: -0.0101094 +- 0.0126869 cm (will align)
+    phiz: -8.6778e-06 +- 0.000233813 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0129325
+    successful SL2 fit!
+    y: 0.00799322 +- 0.0272407 cm (will align)
+    maximal B-field error: 0.0356983
+
+DT chamber  Wh:-1 St:2 Se:1  (579141632): 
+
+DT chamber  Wh:-1 St:2 Se:2  (579403776): 
+    successful SL13 fit!
+    x: -0.00418809 +- 0.0122078 cm (will align)
+    phiz: -3.45295e-05 +- 0.000224248 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.023629
+    successful SL2 fit!
+    y: -0.00814778 +- 0.0259184 cm (will align)
+    maximal B-field error: -0.0392726
+
+DT chamber  Wh:-1 St:2 Se:3  (579665920): 
+    successful SL2 fit!
+    y: -0.00187085 +- 0.0180103 cm (will align)
+    maximal B-field error: 0.0121255
+
+DT chamber  Wh:-1 St:2 Se:4  (579928064): 
+    successful SL13 fit!
+    x: -0.000453071 +- 0.00739231 cm (will align)
+    phiz: 1.22688e-05 +- 0.000129964 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0278013
+    successful SL2 fit!
+    y: 0.000438715 +- 0.0150739 cm (will align)
+    maximal B-field error: -0.0132065
+
+DT chamber  Wh:-1 St:2 Se:5  (580190208): 
+
+DT chamber  Wh:-1 St:2 Se:6  (580452352): 
+    successful SL13 fit!
+    x: -0.166165 +- 0.0160517 cm (will align)
+    phiz: -0.00146041 +- 0.000291887 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00519944
+    successful SL2 fit!
+    y: -0.335499 +- 0.031754 cm (will align)
+    maximal B-field error: -0.0650936
+
+DT chamber  Wh:-1 St:2 Se:7  (580714496): 
+
+DT chamber  Wh:-1 St:2 Se:8  (580976640): 
+    successful SL2 fit!
+    y: 0.179939 +- 0.020788 cm (will align)
+    maximal B-field error: 0.049494
+
+DT chamber  Wh:-1 St:2 Se:9  (581238784): 
+
+DT chamber  Wh:-1 St:2 Se:10  (581500928): 
+    successful SL13 fit!
+    x: 0.166381 +- 0.00601073 cm (will align)
+    phiz: -0.000213114 +- 0.000111546 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.00604389
+
+DT chamber  Wh:-1 St:2 Se:11  (581763072): 
+    successful SL13 fit!
+    x: 0.414363 +- 0.00976373 cm (will align)
+    phiz: 0.000808195 +- 0.000180184 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0482155
+    successful SL2 fit!
+    y: -0.367077 +- 0.0151189 cm (will align)
+    maximal B-field error: -0.0144003
+
+DT chamber  Wh:-1 St:2 Se:12  (582025216): 
+    successful SL13 fit!
+    x: -0.007297 +- 0.0127931 cm (will align)
+    phiz: 1.64582e-05 +- 0.000233577 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0407813
+    successful SL2 fit!
+    y: 0.0059014 +- 0.0199431 cm (will align)
+    maximal B-field error: -0.0303042
+
+DT chamber  Wh:-1 St:3 Se:1  (583335936): 
+
+DT chamber  Wh:-1 St:3 Se:2  (583598080): 
+    successful SL13 fit!
+    x: -0.00645301 +- 0.0144282 cm (will align)
+    phiz: 5.99631e-05 +- 0.000265659 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0869665
+    successful SL2 fit!
+    y: -0.00783654 +- 0.0281705 cm (will align)
+    maximal B-field error: 0.00030432
+
+DT chamber  Wh:-1 St:3 Se:3  (583860224): 
+    successful SL2 fit!
+    y: -0.0432054 +- 0.0222466 cm (will align)
+    maximal B-field error: 0.0727529
+
+DT chamber  Wh:-1 St:3 Se:4  (584122368): 
+    successful SL13 fit!
+    x: 0.218131 +- 0.00846236 cm (will align)
+    phiz: 0.000116448 +- 0.000152295 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0804479
+    successful SL2 fit!
+    y: 0.248439 +- 0.0162225 cm (will align)
+    maximal B-field error: 0.0701431
+
+DT chamber  Wh:-1 St:3 Se:5  (584384512): 
+    successful SL13 fit!
+    x: 0.00284529 +- 0.0109548 cm (will align)
+    phiz: 1.62675e-05 +- 0.000199738 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0768293
+
+DT chamber  Wh:-1 St:3 Se:6  (584646656): 
+    successful SL13 fit!
+    x: 0.00246956 +- 0.0294434 cm (will align)
+    phiz: 9.44237e-06 +- 0.00054269 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0735751
+    successful SL2 fit!
+    y: -0.0140942 +- 0.0422482 cm (will align)
+    maximal B-field error: -0.0115119
+
+DT chamber  Wh:-1 St:3 Se:7  (584908800): 
+
+DT chamber  Wh:-1 St:3 Se:8  (585170944): 
+    successful SL2 fit!
+    y: 0.0120429 +- 0.0252643 cm (will align)
+    maximal B-field error: 0.0379255
+
+DT chamber  Wh:-1 St:3 Se:9  (585433088): 
+    successful SL13 fit!
+    x: 0.22799 +- 0.00971492 cm (will align)
+    phiz: -0.00117653 +- 0.000180914 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.123525
+    successful SL2 fit!
+    y: 0.0923336 +- 0.018204 cm (will align)
+    maximal B-field error: 0.00273608
+
+DT chamber  Wh:-1 St:3 Se:10  (585695232): 
+    successful SL13 fit!
+    x: 0.00128339 +- 0.00765443 cm (will align)
+    phiz: 6.93502e-06 +- 0.000141779 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.144824
+    successful SL2 fit!
+    y: -0.000840983 +- 0.0187856 cm (will align)
+    maximal B-field error: 0.0136353
+
+DT chamber  Wh:-1 St:3 Se:11  (585957376): 
+    successful SL13 fit!
+    x: 0.375191 +- 0.0126853 cm (will align)
+    phiz: 0.000728106 +- 0.000238189 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.198616
+    successful SL2 fit!
+    y: -0.293062 +- 0.022014 cm (will align)
+    maximal B-field error: -0.0305595
+
+DT chamber  Wh:-1 St:3 Se:12  (586219520): 
+    successful SL13 fit!
+    x: -0.0138379 +- 0.0178929 cm (will align)
+    phiz: 6.88294e-05 +- 0.000330003 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.160577
+    successful SL2 fit!
+    y: 0.0322184 +- 0.025828 cm (will align)
+    maximal B-field error: 0.000562059
+
+DT chamber  Wh:-1 St:4 Se:1  (587530240): 
+
+DT chamber  Wh:-1 St:4 Se:2  (587792384): 
+    successful SL13 fit!
+    x: 0.816616 +- 0.0250016 cm (will align)
+    phiz: 0.000542437 +- 0.00046166 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.285416
+
+DT chamber  Wh:-1 St:4 Se:3  (588054528): 
+    successful SL13 fit!
+    x: 0.962473 +- 0.0204111 cm (will align)
+    phiz: -0.000427854 +- 0.000476306 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.55058
+
+DT chamber  Wh:-1 St:4 Se:4  (588316672): 
+    successful SL13 fit!
+    x: 0.594437 +- 0.0151732 cm (will align)
+    phiz: -8.06549e-05 +- 0.000280376 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.454796
+
+DT chamber  Wh:-1 St:4 Se:13  (590675968): 
+    successful SL13 fit!
+    x: -0.0111745 +- 0.0150708 cm (will align)
+    phiz: -0.00121484 +- 0.000284928 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.476974
+
+DT chamber  Wh:-1 St:4 Se:5  (588578816): 
+    successful SL13 fit!
+    x: -0.335356 +- 0.0161572 cm (will align)
+    phiz: -0.000950019 +- 0.000295317 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.384006
+
+DT chamber  Wh:-1 St:4 Se:6  (588840960): 
+
+DT chamber  Wh:-1 St:4 Se:7  (589103104): 
+
+DT chamber  Wh:-1 St:4 Se:8  (589365248): 
+    successful SL13 fit!
+    x: 0.116523 +- 0.0197196 cm (will align)
+    phiz: -0.000321306 +- 0.000356903 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.490889
+
+DT chamber  Wh:-1 St:4 Se:9  (589627392): 
+    successful SL13 fit!
+    x: 0.0983057 +- 0.0164769 cm (will align)
+    phiz: -0.000718618 +- 0.000309717 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.455728
+
+DT chamber  Wh:-1 St:4 Se:10  (589889536): 
+    successful SL13 fit!
+    x: -0.116484 +- 0.0150508 cm (will align)
+    phiz: 0.000339511 +- 0.000280807 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.585761
+
+DT chamber  Wh:-1 St:4 Se:14  (590938112): 
+    successful SL13 fit!
+    x: 0.350557 +- 0.0150366 cm (will align)
+    phiz: -0.000331822 +- 0.000278235 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.559889
+
+DT chamber  Wh:-1 St:4 Se:11  (590151680): 
+    successful SL13 fit!
+    x: 0.29708 +- 0.0209421 cm (will align)
+    phiz: 0.000448335 +- 0.000392936 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.56151
+
+DT chamber  Wh:-1 St:4 Se:12  (590413824): 
+    successful SL13 fit!
+    x: 0.509264 +- 0.0204077 cm (will align)
+    phiz: 0.00281964 +- 0.000376533 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.554251
+
+DT chamber  Wh:0 St:1 Se:1  (574980096): 
+
+DT chamber  Wh:0 St:1 Se:5  (576028672): 
+    successful SL13 fit!
+    x: 8.42707e-05 +- 0.00402588 cm (will align)
+    phiz: -6.07301e-06 +- 7.53317e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0335068
+    successful SL2 fit!
+    y: 0.00136849 +- 0.00811409 cm (will align)
+    maximal B-field error: -0.0093428
+
+DT chamber  Wh:0 St:1 Se:9  (577077248): 
+    successful SL2 fit!
+    y: -0.114675 +- 0.00549004 cm (will align)
+    maximal B-field error: -0.0341045
+
+DT chamber  Wh:0 St:1 Se:2  (575242240): 
+    successful SL2 fit!
+    y: -0.00325224 +- 0.00892035 cm (will align)
+    maximal B-field error: 0.000594024
+
+DT chamber  Wh:0 St:1 Se:6  (576290816): 
+    successful SL13 fit!
+    x: 0.00149441 +- 0.00728985 cm (will align)
+    phiz: 1.1682e-05 +- 0.000138979 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0232803
+    successful SL2 fit!
+    y: 0.00817552 +- 0.012736 cm (will align)
+    maximal B-field error: -0.0131804
+
+DT chamber  Wh:0 St:1 Se:10  (577339392): 
+    successful SL13 fit!
+    x: -0.000838597 +- 0.00224467 cm (will align)
+    phiz: -1.52474e-07 +- 4.17756e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0382096
+    successful SL2 fit!
+    y: 0.000218167 +- 0.00484411 cm (will align)
+    maximal B-field error: -0.032705
+
+DT chamber  Wh:0 St:1 Se:3  (575504384): 
+    successful SL13 fit!
+    x: -0.00156486 +- 0.00328212 cm (will align)
+    phiz: 1.43895e-05 +- 6.10814e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0274588
+    successful SL2 fit!
+    y: -0.00234457 +- 0.00657976 cm (will align)
+    maximal B-field error: 0.026658
+
+DT chamber  Wh:0 St:1 Se:7  (576552960): 
+
+DT chamber  Wh:0 St:1 Se:11  (577601536): 
+    successful SL13 fit!
+    x: -0.000382491 +- 0.00373102 cm (will align)
+    phiz: -4.65792e-06 +- 6.79483e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0257167
+    successful SL2 fit!
+    y: -0.000525405 +- 0.00625034 cm (will align)
+    maximal B-field error: -0.033058
+
+DT chamber  Wh:0 St:1 Se:4  (575766528): 
+    successful SL13 fit!
+    x: 0.161936 +- 0.00302411 cm (will align)
+    phiz: 0.000202552 +- 5.67244e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0282529
+    successful SL2 fit!
+    y: -0.159942 +- 0.00698101 cm (will align)
+    maximal B-field error: 0.00293895
+
+DT chamber  Wh:0 St:1 Se:8  (576815104): 
+    successful SL13 fit!
+    x: -0.000780842 +- 0.00496092 cm (will align)
+    phiz: 7.08006e-06 +- 8.99715e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00638295
+
+DT chamber  Wh:0 St:1 Se:12  (577863680): 
+    successful SL13 fit!
+    x: 0.00124398 +- 0.00952607 cm (will align)
+    phiz: 2.69662e-05 +- 0.000176821 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0156477
+    successful SL2 fit!
+    y: -0.00708462 +- 0.0115227 cm (will align)
+    maximal B-field error: 0.0142601
+
+DT chamber  Wh:0 St:2 Se:1  (579174400): 
+
+DT chamber  Wh:0 St:2 Se:5  (580222976): 
+    successful SL13 fit!
+    x: -0.322199 +- 0.00526683 cm (will align)
+    phiz: -9.31657e-05 +- 9.61565e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0267693
+    successful SL2 fit!
+    y: 0.0593777 +- 0.011167 cm (will align)
+    maximal B-field error: -0.0206945
+
+DT chamber  Wh:0 St:2 Se:9  (581271552): 
+    successful SL13 fit!
+    x: -0.0031085 +- 0.00355049 cm (will align)
+    phiz: -0.000209832 +- 6.30843e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00270888
+    successful SL2 fit!
+    y: -0.0443388 +- 0.0111971 cm (will align)
+    maximal B-field error: -0.0362755
+
+DT chamber  Wh:0 St:2 Se:2  (579436544): 
+    successful SL13 fit!
+    x: 8.33419e-05 +- 0.00999462 cm (will align)
+    phiz: -1.73093e-05 +- 0.000181333 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00444226
+    successful SL2 fit!
+    y: -0.00275436 +- 0.0141723 cm (will align)
+    maximal B-field error: -0.0236683
+
+DT chamber  Wh:0 St:2 Se:6  (580485120): 
+    successful SL13 fit!
+    x: 0.00210564 +- 0.00802652 cm (will align)
+    phiz: 2.46291e-05 +- 0.000146204 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00478955
+    successful SL2 fit!
+    y: 0.00289624 +- 0.0138565 cm (will align)
+    maximal B-field error: 0.00132705
+
+DT chamber  Wh:0 St:2 Se:10  (581533696): 
+    successful SL13 fit!
+    x: -0.000563632 +- 0.00288168 cm (will align)
+    phiz: -2.03309e-06 +- 5.21837e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0222519
+
+DT chamber  Wh:0 St:2 Se:3  (579698688): 
+    successful SL13 fit!
+    x: -0.000629649 +- 0.00458838 cm (will align)
+    phiz: 5.9141e-06 +- 8.31146e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00765427
+    successful SL2 fit!
+    y: -0.000798543 +- 0.00892634 cm (will align)
+    maximal B-field error: 0.0253705
+
+DT chamber  Wh:0 St:2 Se:7  (580747264): 
+
+DT chamber  Wh:0 St:2 Se:11  (581795840): 
+    successful SL13 fit!
+    x: -0.000151604 +- 0.00473018 cm (will align)
+    phiz: 1.07641e-06 +- 8.48396e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0557653
+    successful SL2 fit!
+    y: -0.00082285 +- 0.00779223 cm (will align)
+    maximal B-field error: -0.0193541
+
+DT chamber  Wh:0 St:2 Se:4  (579960832): 
+    successful SL13 fit!
+    x: 0.245852 +- 0.00385187 cm (will align)
+    phiz: 0.000551442 +- 6.86332e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00496036
+
+DT chamber  Wh:0 St:2 Se:8  (581009408): 
+    successful SL2 fit!
+    y: 0.00492857 +- 0.0117821 cm (will align)
+    maximal B-field error: -0.0350735
+
+DT chamber  Wh:0 St:2 Se:12  (582057984): 
+    successful SL13 fit!
+    x: -0.000326798 +- 0.0101164 cm (will align)
+    phiz: 1.03037e-05 +- 0.00018293 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0609453
+    successful SL2 fit!
+    y: -0.00752632 +- 0.0126508 cm (will align)
+    maximal B-field error: 0.0339434
+
+DT chamber  Wh:0 St:3 Se:1  (583368704): 
+
+DT chamber  Wh:0 St:3 Se:5  (584417280): 
+    successful SL13 fit!
+    x: -0.000404496 +- 0.00775977 cm (will align)
+    phiz: -1.22072e-05 +- 0.000137542 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.103681
+
+DT chamber  Wh:0 St:3 Se:9  (585465856): 
+    successful SL13 fit!
+    x: -0.0334357 +- 0.00503962 cm (will align)
+    phiz: -0.000298184 +- 8.77349e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.154238
+    successful SL2 fit!
+    y: -0.0502226 +- 0.011615 cm (will align)
+    maximal B-field error: -0.0127491
+
+DT chamber  Wh:0 St:3 Se:2  (583630848): 
+    successful SL2 fit!
+    y: -0.00622572 +- 0.0173435 cm (will align)
+    maximal B-field error: -0.0161385
+
+DT chamber  Wh:0 St:3 Se:6  (584679424): 
+    successful SL13 fit!
+    x: -0.000547303 +- 0.0125301 cm (will align)
+    phiz: -2.40425e-05 +- 0.000223942 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0929041
+    successful SL2 fit!
+    y: 0.00636128 +- 0.0490073 cm (will align)
+    maximal B-field error: 0.00853623
+
+DT chamber  Wh:0 St:3 Se:10  (585728000): 
+    successful SL13 fit!
+    x: 0.000321447 +- 0.00517816 cm (will align)
+    phiz: -7.40177e-06 +- 9.09433e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.146543
+    successful SL2 fit!
+    y: 8.13442e-05 +- 0.0136476 cm (will align)
+    maximal B-field error: -0.07319
+
+DT chamber  Wh:0 St:3 Se:3  (583892992): 
+    successful SL13 fit!
+    x: -0.782487 +- 0.00642125 cm (will align)
+    phiz: -0.00124876 +- 0.000112869 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.140309
+
+DT chamber  Wh:0 St:3 Se:7  (584941568): 
+
+DT chamber  Wh:0 St:3 Se:11  (585990144): 
+    successful SL13 fit!
+    x: -0.000616263 +- 0.00739925 cm (will align)
+    phiz: 4.18678e-06 +- 0.000130644 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.248986
+
+DT chamber  Wh:0 St:3 Se:4  (584155136): 
+    successful SL13 fit!
+    x: 0.00243794 +- 0.00579486 cm (will align)
+    phiz: 1.76662e-06 +- 9.89374e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.150929
+    successful SL2 fit!
+    y: 0.000650001 +- 0.0131515 cm (will align)
+    maximal B-field error: -0.0829565
+
+DT chamber  Wh:0 St:3 Se:8  (585203712): 
+    successful SL13 fit!
+    x: -0.000806841 +- 0.0102347 cm (will align)
+    phiz: 1.74003e-05 +- 0.000180135 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.152326
+    successful SL2 fit!
+    y: 0.00502239 +- 0.0156416 cm (will align)
+    maximal B-field error: -0.0323925
+
+DT chamber  Wh:0 St:3 Se:12  (586252288): 
+    successful SL13 fit!
+    x: -0.000870321 +- 0.0168132 cm (will align)
+    phiz: 5.62583e-05 +- 0.000295922 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.229993
+    successful SL2 fit!
+    y: -0.0151362 +- 0.0208776 cm (will align)
+    maximal B-field error: 0.0439269
+
+DT chamber  Wh:0 St:4 Se:1  (587563008): 
+
+DT chamber  Wh:0 St:4 Se:2  (587825152): 
+    successful SL13 fit!
+    x: -0.674362 +- 0.0260114 cm (will align)
+    phiz: -0.000230675 +- 0.00045552 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.350574
+
+DT chamber  Wh:0 St:4 Se:3  (588087296): 
+    successful SL13 fit!
+    x: -0.918574 +- 0.010067 cm (will align)
+    phiz: -0.000949238 +- 0.000175624 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.499596
+
+DT chamber  Wh:0 St:4 Se:4  (588349440): 
+    successful SL13 fit!
+    x: 0.589029 +- 0.0105701 cm (will align)
+    phiz: -0.000531542 +- 0.000178806 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.589209
+
+DT chamber  Wh:0 St:4 Se:13  (590708736): 
+
+DT chamber  Wh:0 St:4 Se:5  (588611584): 
+    successful SL13 fit!
+    x: -0.644114 +- 0.0115728 cm (will align)
+    phiz: 0.000332776 +- 0.000202436 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.42266
+
+DT chamber  Wh:0 St:4 Se:6  (588873728): 
+    successful SL13 fit!
+    x: 0.619207 +- 0.0247505 cm (will align)
+    phiz: -0.000718976 +- 0.000438167 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.362751
+
+DT chamber  Wh:0 St:4 Se:7  (589135872): 
+
+DT chamber  Wh:0 St:4 Se:8  (589398016): 
+
+DT chamber  Wh:0 St:4 Se:9  (589660160): 
+    successful SL13 fit!
+    x: 0.0403517 +- 0.0108663 cm (will align)
+    phiz: -0.000414281 +- 0.000187079 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.472929
+
+DT chamber  Wh:0 St:4 Se:10  (589922304): 
+    successful SL13 fit!
+    x: 0.235038 +- 0.00972362 cm (will align)
+    phiz: 0.000138104 +- 0.000167585 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.589968
+
+DT chamber  Wh:0 St:4 Se:14  (590970880): 
+    successful SL13 fit!
+    x: -0.0467627 +- 0.00952995 cm (will align)
+    phiz: -0.0010016 +- 0.000165871 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.690955
+
+DT chamber  Wh:0 St:4 Se:11  (590184448): 
+    successful SL13 fit!
+    x: 0.0765282 +- 0.0139392 cm (will align)
+    phiz: -0.000119916 +- 0.000243707 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.568591
+
+DT chamber  Wh:0 St:4 Se:12  (590446592): 
+    successful SL13 fit!
+    x: 0.716691 +- 0.0181484 cm (will align)
+    phiz: -0.00085403 +- 0.000319582 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.688169
+
+DT chamber  Wh:1 St:1 Se:1  (575012864): 
+
+DT chamber  Wh:1 St:1 Se:2  (575275008): 
+    successful SL13 fit!
+    x: 0.010272 +- 0.00977824 cm (will align)
+    phiz: -2.057e-06 +- 0.000178502 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0257597
+
+DT chamber  Wh:1 St:1 Se:3  (575537152): 
+    successful SL13 fit!
+    x: -0.438293 +- 0.00824731 cm (will align)
+    phiz: -0.000454452 +- 0.00014882 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0002363
+    successful SL2 fit!
+    y: 0.0743982 +- 0.0170873 cm (will align)
+    maximal B-field error: -0.0159151
+
+DT chamber  Wh:1 St:1 Se:4  (575799296): 
+    successful SL13 fit!
+    x: -0.00273675 +- 0.00834626 cm (will align)
+    phiz: 1.07308e-05 +- 0.000185814 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0135728
+    successful SL2 fit!
+    y: 5.61631e-05 +- 0.0219358 cm (will align)
+    maximal B-field error: 0.00129193
+
+DT chamber  Wh:1 St:1 Se:5  (576061440): 
+    successful SL13 fit!
+    x: 0.218465 +- 0.00882169 cm (will align)
+    phiz: -2.1704e-05 +- 0.000161237 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0191319
+    successful SL2 fit!
+    y: -0.196865 +- 0.0238546 cm (will align)
+    maximal B-field error: 0.0491499
+
+DT chamber  Wh:1 St:1 Se:6  (576323584): 
+
+DT chamber  Wh:1 St:1 Se:7  (576585728): 
+
+DT chamber  Wh:1 St:1 Se:8  (576847872): 
+    successful SL13 fit!
+    x: -0.00444548 +- 0.010432 cm (will align)
+    phiz: -1.4936e-05 +- 0.000185744 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00549899
+    successful SL2 fit!
+    y: 0.00133724 +- 0.0213589 cm (will align)
+    maximal B-field error: 0.0424486
+
+DT chamber  Wh:1 St:1 Se:9  (577110016): 
+    successful SL13 fit!
+    x: 0.00106765 +- 0.00571088 cm (will align)
+    phiz: -9.43002e-07 +- 0.000104702 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.00733751
+    successful SL2 fit!
+    y: -0.0007782 +- 0.013861 cm (will align)
+    maximal B-field error: 0.0827307
+
+DT chamber  Wh:1 St:1 Se:10  (577372160): 
+    successful SL13 fit!
+    x: -0.00152198 +- 0.00453327 cm (will align)
+    phiz: -4.3341e-06 +- 8.10883e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0182454
+    successful SL2 fit!
+    y: 0.000449344 +- 0.0119106 cm (will align)
+    maximal B-field error: -0.0193422
+
+DT chamber  Wh:1 St:1 Se:11  (577634304): 
+    successful SL13 fit!
+    x: 0.00516096 +- 0.00645724 cm (will align)
+    phiz: -4.85416e-06 +- 0.000119066 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0338772
+    successful SL2 fit!
+    y: 0.00219079 +- 0.0153695 cm (will align)
+    maximal B-field error: -0.0261315
+
+DT chamber  Wh:1 St:1 Se:12  (577896448): 
+    successful SL13 fit!
+    x: 0.00617325 +- 0.0154944 cm (will align)
+    phiz: -1.97691e-05 +- 0.000276425 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0488215
+
+DT chamber  Wh:1 St:2 Se:1  (579207168): 
+
+DT chamber  Wh:1 St:2 Se:2  (579469312): 
+    successful SL13 fit!
+    x: 0.00404853 +- 0.0118591 cm (will align)
+    phiz: -4.13634e-05 +- 0.000222225 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0206102
+    successful SL2 fit!
+    y: -0.00224161 +- 0.0303803 cm (will align)
+    maximal B-field error: -0.0354466
+
+DT chamber  Wh:1 St:2 Se:3  (579731456): 
+    successful SL13 fit!
+    x: 0.0013621 +- 0.00805491 cm (will align)
+    phiz: -7.77616e-06 +- 0.000146405 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.00860154
+    successful SL2 fit!
+    y: -0.000258644 +- 0.0193628 cm (will align)
+    maximal B-field error: -0.0271761
+
+DT chamber  Wh:1 St:2 Se:4  (579993600): 
+    successful SL13 fit!
+    x: 0.000866985 +- 0.00972384 cm (will align)
+    phiz: -5.92133e-06 +- 0.00021126 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0159707
+    successful SL2 fit!
+    y: 0.000261956 +- 0.0221611 cm (will align)
+    maximal B-field error: -0.00309707
+
+DT chamber  Wh:1 St:2 Se:5  (580255744): 
+    successful SL13 fit!
+    x: 0.321168 +- 0.00885936 cm (will align)
+    phiz: -3.64284e-06 +- 0.000164082 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0239499
+    successful SL2 fit!
+    y: -0.377386 +- 0.0225113 cm (will align)
+    maximal B-field error: 0.051157
+
+DT chamber  Wh:1 St:2 Se:6  (580517888): 
+    successful SL13 fit!
+    x: 0.003302 +- 0.017872 cm (will align)
+    phiz: -7.72507e-05 +- 0.000336508 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0106156
+    successful SL2 fit!
+    y: 0.000188515 +- 0.0290248 cm (will align)
+    maximal B-field error: -0.0375802
+
+DT chamber  Wh:1 St:2 Se:7  (580780032): 
+
+DT chamber  Wh:1 St:2 Se:8  (581042176): 
+    successful SL13 fit!
+    x: -0.00928196 +- 0.0147069 cm (will align)
+    phiz: 5.45613e-05 +- 0.000268957 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0142754
+
+DT chamber  Wh:1 St:2 Se:9  (581304320): 
+    successful SL13 fit!
+    x: -0.00292505 +- 0.00669378 cm (will align)
+    phiz: 1.10668e-05 +- 0.000126172 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0249756
+    successful SL2 fit!
+    y: 0.00156661 +- 0.0172717 cm (will align)
+    maximal B-field error: 0.0961943
+
+DT chamber  Wh:1 St:2 Se:10  (581566464): 
+    successful SL13 fit!
+    x: 0.000624945 +- 0.00490214 cm (will align)
+    phiz: -1.03723e-05 +- 9.00177e-05 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0339976
+    successful SL2 fit!
+    y: -0.00057733 +- 0.0133558 cm (will align)
+    maximal B-field error: 0.00502718
+
+DT chamber  Wh:1 St:2 Se:11  (581828608): 
+    successful SL13 fit!
+    x: 0.00436768 +- 0.00616503 cm (will align)
+    phiz: -5.94646e-07 +- 0.000115494 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.031018
+    successful SL2 fit!
+    y: 0.00533217 +- 0.01548 cm (will align)
+    maximal B-field error: -0.0238126
+
+DT chamber  Wh:1 St:2 Se:12  (582090752): 
+
+DT chamber  Wh:1 St:3 Se:1  (583401472): 
+
+DT chamber  Wh:1 St:3 Se:2  (583663616): 
+    successful SL13 fit!
+    x: -0.759538 +- 0.0125748 cm (will align)
+    phiz: -0.00123142 +- 0.000235551 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.086485
+    successful SL2 fit!
+    y: -0.145959 +- 0.0322361 cm (will align)
+    maximal B-field error: -0.0185993
+
+DT chamber  Wh:1 St:3 Se:3  (583925760): 
+    successful SL13 fit!
+    x: -0.00138116 +- 0.00842602 cm (will align)
+    phiz: 3.56629e-06 +- 0.0001563 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0869628
+
+DT chamber  Wh:1 St:3 Se:4  (584187904): 
+    successful SL13 fit!
+    x: 0.00537321 +- 0.0117412 cm (will align)
+    phiz: -2.91804e-05 +- 0.000264909 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.115467
+    successful SL2 fit!
+    y: -0.00106385 +- 0.0269966 cm (will align)
+    maximal B-field error: 0.0503645
+
+DT chamber  Wh:1 St:3 Se:5  (584450048): 
+    successful SL13 fit!
+    x: 0.000942668 +- 0.0104214 cm (will align)
+    phiz: -3.37307e-05 +- 0.000191716 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0895717
+    successful SL2 fit!
+    y: 0.000664261 +- 0.0261549 cm (will align)
+    maximal B-field error: 0.102293
+
+DT chamber  Wh:1 St:3 Se:6  (584712192): 
+    successful SL13 fit!
+    x: -0.000976987 +- 0.0236365 cm (will align)
+    phiz: -7.87727e-06 +- 0.000441798 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0635702
+    successful SL2 fit!
+    y: 0.00119552 +- 0.0408947 cm (will align)
+    maximal B-field error: -0.0158077
+
+DT chamber  Wh:1 St:3 Se:7  (584974336): 
+
+DT chamber  Wh:1 St:3 Se:8  (585236480): 
+    successful SL2 fit!
+    y: -0.0773532 +- 0.0279163 cm (will align)
+    maximal B-field error: 0.0449356
+
+DT chamber  Wh:1 St:3 Se:9  (585498624): 
+    successful SL13 fit!
+    x: -0.00744811 +- 0.00918764 cm (will align)
+    phiz: 2.02411e-05 +- 0.000169286 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.195177
+
+DT chamber  Wh:1 St:3 Se:10  (585760768): 
+    successful SL13 fit!
+    x: 0.00373474 +- 0.00563056 cm (will align)
+    phiz: 4.00556e-06 +- 0.000105523 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.102201
+    successful SL2 fit!
+    y: -0.000597562 +- 0.0148809 cm (will align)
+    maximal B-field error: -0.0478477
+
+DT chamber  Wh:1 St:3 Se:11  (586022912): 
+    successful SL13 fit!
+    x: 0.00224951 +- 0.00876352 cm (will align)
+    phiz: -5.06145e-06 +- 0.000161757 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.190057
+    successful SL2 fit!
+    y: 0.00381943 +- 0.0214227 cm (will align)
+    maximal B-field error: -0.0407376
+
+DT chamber  Wh:1 St:3 Se:12  (586285056): 
+    successful SL13 fit!
+    x: -0.463452 +- 0.0179928 cm (will align)
+    phiz: -0.00215474 +- 0.000326949 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.196906
+    successful SL2 fit!
+    y: -0.107089 +- 0.0363108 cm (will align)
+    maximal B-field error: -0.126818
+
+DT chamber  Wh:1 St:4 Se:1  (587595776): 
+
+DT chamber  Wh:1 St:4 Se:2  (587857920): 
+    successful SL13 fit!
+    x: -0.795415 +- 0.0267163 cm (will align)
+    phiz: -0.000654544 +- 0.000493705 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.346316
+
+DT chamber  Wh:1 St:4 Se:3  (588120064): 
+    successful SL13 fit!
+    x: -0.745224 +- 0.0126119 cm (will align)
+    phiz: -5.49113e-05 +- 0.000236116 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.395571
+
+DT chamber  Wh:1 St:4 Se:4  (588382208): 
+    successful SL13 fit!
+    x: -0.588217 +- 0.0181098 cm (will align)
+    phiz: -0.000931612 +- 0.00041641 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.457236
+
+DT chamber  Wh:1 St:4 Se:13  (590741504): 
+    successful SL13 fit!
+    x: 0.123968 +- 0.018322 cm (will align)
+    phiz: 0.000736168 +- 0.000414039 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.467862
+
+DT chamber  Wh:1 St:4 Se:5  (588644352): 
+    successful SL13 fit!
+    x: 0.481185 +- 0.0150336 cm (will align)
+    phiz: 0.000429428 +- 0.000278031 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.356311
+
+DT chamber  Wh:1 St:4 Se:6  (588906496): 
+    successful SL13 fit!
+    x: 0.770257 +- 0.0374477 cm (will align)
+    phiz: 0.00051685 +- 0.000672984 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.277837
+
+DT chamber  Wh:1 St:4 Se:7  (589168640): 
+
+DT chamber  Wh:1 St:4 Se:8  (589430784): 
+    successful SL13 fit!
+    x: 0.269137 +- 0.0202195 cm (will align)
+    phiz: 0.00207038 +- 0.00037089 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.516621
+
+DT chamber  Wh:1 St:4 Se:9  (589692928): 
+    successful SL13 fit!
+    x: -0.166872 +- 0.0162984 cm (will align)
+    phiz: 0.00212075 +- 0.00029621 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.552872
+
+DT chamber  Wh:1 St:4 Se:10  (589955072): 
+    successful SL13 fit!
+    x: 0.332437 +- 0.012789 cm (will align)
+    phiz: 0.000552865 +- 0.000237952 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.603945
+
+DT chamber  Wh:1 St:4 Se:14  (591003648): 
+
+DT chamber  Wh:1 St:4 Se:11  (590217216): 
+    successful SL13 fit!
+    x: -0.594231 +- 0.0153787 cm (will align)
+    phiz: 0.000644341 +- 0.000280007 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.571742
+
+DT chamber  Wh:1 St:4 Se:12  (590479360): 
+    successful SL13 fit!
+    x: -0.400959 +- 0.0208478 cm (will align)
+    phiz: -0.00103273 +- 0.000386572 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.588294
+
+DT chamber  Wh:2 St:1 Se:1  (575045632): 
+
+DT chamber  Wh:2 St:1 Se:2  (575307776): 
+
+DT chamber  Wh:2 St:1 Se:3  (575569920): 
+
+DT chamber  Wh:2 St:1 Se:4  (575832064): 
+
+DT chamber  Wh:2 St:1 Se:5  (576094208): 
+
+DT chamber  Wh:2 St:1 Se:6  (576356352): 
+
+DT chamber  Wh:2 St:1 Se:7  (576618496): 
+
+DT chamber  Wh:2 St:1 Se:8  (576880640): 
+
+DT chamber  Wh:2 St:1 Se:9  (577142784): 
+
+DT chamber  Wh:2 St:1 Se:10  (577404928): 
+
+DT chamber  Wh:2 St:1 Se:11  (577667072): 
+
+DT chamber  Wh:2 St:1 Se:12  (577929216): 
+
+DT chamber  Wh:2 St:2 Se:1  (579239936): 
+
+DT chamber  Wh:2 St:2 Se:2  (579502080): 
+
+DT chamber  Wh:2 St:2 Se:3  (579764224): 
+
+DT chamber  Wh:2 St:2 Se:4  (580026368): 
+
+DT chamber  Wh:2 St:2 Se:5  (580288512): 
+
+DT chamber  Wh:2 St:2 Se:6  (580550656): 
+
+DT chamber  Wh:2 St:2 Se:7  (580812800): 
+
+DT chamber  Wh:2 St:2 Se:8  (581074944): 
+
+DT chamber  Wh:2 St:2 Se:9  (581337088): 
+
+DT chamber  Wh:2 St:2 Se:10  (581599232): 
+    successful SL13 fit!
+    x: 0.0136419 +- 0.0247839 cm (will align)
+    phiz: 3.72544e-05 +- 0.000486381 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.022504
+    successful SL2 fit!
+    y: 0.00494371 +- 0.0855302 cm (will align)
+    maximal B-field error: -0.0114674
+
+DT chamber  Wh:2 St:2 Se:11  (581861376): 
+    successful SL13 fit!
+    x: -0.257571 +- 0.0336271 cm (will align)
+    phiz: -0.000654104 +- 0.000655825 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.0908977
+    successful SL2 fit!
+    y: -0.0823499 +- 0.105297 cm (will align)
+    maximal B-field error: -0.00939489
+
+DT chamber  Wh:2 St:2 Se:12  (582123520): 
+
+DT chamber  Wh:2 St:3 Se:1  (583434240): 
+
+DT chamber  Wh:2 St:3 Se:2  (583696384): 
+
+DT chamber  Wh:2 St:3 Se:3  (583958528): 
+    successful SL13 fit!
+    x: -0.248552 +- 0.0326805 cm (will align)
+    phiz: 0.000204699 +- 0.000610355 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0833427
+
+DT chamber  Wh:2 St:3 Se:4  (584220672): 
+    successful SL13 fit!
+    x: 0.224528 +- 0.033118 cm (will align)
+    phiz: -0.000988479 +- 0.000616233 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.0964846
+    successful SL2 fit!
+    y: 0.118348 +- 0.0846145 cm (will align)
+    maximal B-field error: -0.0722683
+
+DT chamber  Wh:2 St:3 Se:5  (584482816): 
+    successful SL13 fit!
+    x: 0.398008 +- 0.0340921 cm (will align)
+    phiz: 0.00180655 +- 0.000669015 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.139704
+
+DT chamber  Wh:2 St:3 Se:6  (584744960): 
+
+DT chamber  Wh:2 St:3 Se:7  (585007104): 
+
+DT chamber  Wh:2 St:3 Se:8  (585269248): 
+
+DT chamber  Wh:2 St:3 Se:9  (585531392): 
+    successful SL2 fit!
+    y: -0.00481683 +- 0.0899067 cm (will align)
+    maximal B-field error: 0.0360793
+
+DT chamber  Wh:2 St:3 Se:10  (585793536): 
+    successful SL13 fit!
+    x: 0.0118833 +- 0.0184179 cm (will align)
+    phiz: -7.6909e-06 +- 0.000344196 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.177102
+    successful SL2 fit!
+    y: -0.00514472 +- 0.0663719 cm (will align)
+    maximal B-field error: -0.0669351
+
+DT chamber  Wh:2 St:3 Se:11  (586055680): 
+    successful SL13 fit!
+    x: 0.0061241 +- 0.0267612 cm (will align)
+    phiz: -9.04109e-05 +- 0.000506119 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.216627
+    successful SL2 fit!
+    y: 0.011644 +- 0.0689583 cm (will align)
+    maximal B-field error: 0.0731767
+
+DT chamber  Wh:2 St:3 Se:12  (586317824): 
+
+DT chamber  Wh:2 St:4 Se:1  (587628544): 
+
+DT chamber  Wh:2 St:4 Se:2  (587890688): 
+
+DT chamber  Wh:2 St:4 Se:3  (588152832): 
+    successful SL13 fit!
+    x: -0.227828 +- 0.0342706 cm (will align)
+    phiz: -2.33723e-05 +- 0.000634052 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.327718
+
+DT chamber  Wh:2 St:4 Se:4  (588414976): 
+    successful SL13 fit!
+    x: -0.119542 +- 0.0377 cm (will align)
+    phiz: 0.000762657 +- 0.000702712 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.422693
+
+DT chamber  Wh:2 St:4 Se:13  (590774272): 
+    successful SL13 fit!
+    x: 0.269823 +- 0.0342167 cm (will align)
+    phiz: 0.00219072 +- 0.000632904 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.419266
+
+DT chamber  Wh:2 St:4 Se:5  (588677120): 
+    successful SL13 fit!
+    x: 0.551417 +- 0.0406048 cm (will align)
+    phiz: 0.000735392 +- 0.000741955 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): 0.345125
+
+DT chamber  Wh:2 St:4 Se:6  (588939264): 
+
+DT chamber  Wh:2 St:4 Se:7  (589201408): 
+
+DT chamber  Wh:2 St:4 Se:8  (589463552): 
+    successful SL13 fit!
+    x: -0.298657 +- 0.0500379 cm (will align)
+    phiz: -5.2739e-05 +- 0.0008938 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.531792
+
+DT chamber  Wh:2 St:4 Se:9  (589725696): 
+
+DT chamber  Wh:2 St:4 Se:10  (589987840): 
+
+DT chamber  Wh:2 St:4 Se:14  (591036416): 
+    successful SL13 fit!
+    x: -0.333597 +- 0.0265732 cm (will align)
+    phiz: -0.000108889 +- 0.000487382 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.513176
+
+DT chamber  Wh:2 St:4 Se:11  (590249984): 
+    successful SL13 fit!
+    x: -0.258145 +- 0.0332946 cm (will align)
+    phiz: -0.000924041 +- 0.000616182 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.56363
+
+DT chamber  Wh:2 St:4 Se:12  (590512128): 
+    successful SL13 fit!
+    x: -0.217408 +- 0.0421466 cm (will align)
+    phiz: -0.000545311 +- 0.000739713 rad (will align)
+    maximal B-field error (e.g. taking positively-charged tracks only): -0.590669
+

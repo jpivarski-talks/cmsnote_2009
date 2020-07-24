@@ -1,0 +1,946 @@
+\documentclass[compress]{beamer}
+\usepackage{ifthen,verbatim}
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{headline}{}
+
+\begin{document}
+
+\begin{frame}
+\frametitle{Parameters of this alignment}
+
+\scriptsize
+
+\begin{itemize}
+\item Monte Carlo with ideal tracker, magnetic field, and local DT alignment
+\item TIB and TOB only
+\item $100 < p_T < 200$ GeV
+\item CMSSW\_2\_2\_11
+\item only wheels $-$1, 0, $+$1, all sectors except 1 and 7
+\item stations 1--3: 6 degrees of freedom (station 4 was not synchronized)
+\item no treatment of B-field/material effects: one big residuals bin for each chamber
+\item residuals from refit with large muon APEs
+\item tracker track has at least 15 hits, normalized $\chi^2/N_{\scriptsize dof}$ $<$ 10
+\item excluding very large residuals (1000~cm)
+\item Voigt residuals fit; the unbinned fit {\it is} the matrix inversion: fitting 4-D residuals space to 6 alignment parameters $+$ 10 residuals shape parameters (sigmas, gammas, and correlation parameters), what is shown here are projections
+\item residuals weighted by $(\chi^2/N_{\scriptsize dof})^{-1}$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Difference between aligned and MC-truth}
+\includegraphics[height=\linewidth, angle=90]{hip_MC.pdf}
+\end{frame}
+
+\begin{frame}
+\frametitle{Normalized differences}
+\includegraphics[height=\linewidth, angle=90]{hip_MCnorm.pdf}
+
+\vfill This implies that true uncertainties are 3--4 times larger than statistical uncertainties
+\end{frame}
+
+\begin{frame}
+\frametitle{Statistical uncertainties}
+\includegraphics[height=\linewidth, angle=90]{hip_MCstatistical.pdf}
+
+\vfill Statistical uncertainties in this large sample are almost zero
+\end{frame}
+
+\begin{frame}
+\frametitle{Systematic errors}
+\includegraphics[height=\linewidth, angle=90]{hip_MCsystematic.pdf}
+
+\scriptsize
+
+\vfill Systematic errors are estimated from
+
+\[ \mbox{systematic} = \sqrt{(\mbox{aligned} - \mbox{MC-truth})^2 - \mbox{statistical}^2} \]
+
+\vfill Doesn't include systematic errors from tracker misalignment, magnetic field errors, and DT internal misalignment
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit failures}
+
+\begin{itemize}
+\item None
+\item But there is a double-peak $\Delta \frac{dy}{dz}$ of sectors~8 and 12 of some wheel/stations (and only those sectors)
+\begin{itemize}
+\item would ordinarily be cancelled by $\vec{B}$-error suppression, which has been turned off for a more apples-to-apples comparison with MillePede
+\item not observed in real data
+\end{itemize}
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 2}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst1sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 3}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst1sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 4}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst1sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 5}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst1sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 6}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst1sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 8}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst1sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 9}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst1sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 10}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst1sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 11}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst1sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 12}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst1sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 2}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst2sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 3}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst2sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 4}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst2sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 5}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst2sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 6}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst2sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 9}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst2sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 10}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst2sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 11}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst2sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 12}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst2sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 2}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst3sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 3}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst3sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 4}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst3sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 5}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst3sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 6}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst3sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 8}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst3sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 9}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst3sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 10}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst3sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 11}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst3sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 12}
+\includegraphics[width=\linewidth]{tmppoly_MBwhBst3sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 2}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst1sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 3}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst1sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 4}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst1sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 5}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst1sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 6}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst1sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 8}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst1sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 9}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst1sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 10}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst1sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 11}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst1sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 12}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst1sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 2}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst2sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 3}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst2sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 4}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst2sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 5}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst2sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 6}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst2sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 8}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst2sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 9}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst2sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 10}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst2sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 11}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst2sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 12}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst2sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 2}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst3sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 3}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst3sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 4}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst3sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 5}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst3sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 6}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst3sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 8}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst3sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 9}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst3sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 10}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst3sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 11}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst3sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 12}
+\includegraphics[width=\linewidth]{tmppoly_MBwhCst3sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 2}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst1sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 3}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst1sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 4}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst1sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 5}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst1sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 6}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst1sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 8}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst1sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 9}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst1sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 10}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst1sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 11}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst1sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 12}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst1sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 3}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst2sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 4}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst2sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 5}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst2sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 6}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst2sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 8}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst2sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 9}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst2sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 10}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst2sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 11}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst2sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 12}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst2sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 2}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst3sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 3}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst3sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 4}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst3sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 5}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst3sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 6}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst3sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 9}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst3sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 10}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst3sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 11}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst3sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 12}
+\includegraphics[width=\linewidth]{tmppoly_MBwhDst3sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 2}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst1sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 3}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst1sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 4}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst1sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 5}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst1sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 6}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst1sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 8}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst1sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 9}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst1sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 10}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst1sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 11}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst1sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 1, sector 12}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst1sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 2}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst2sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 3}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst2sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 4}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst2sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 5}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst2sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 6}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst2sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 9}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst2sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 10}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst2sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 11}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst2sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 2, sector 12}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst2sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 2}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst3sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 3}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst3sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 4}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst3sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 5}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst3sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 6}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst3sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 8}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst3sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 9}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst3sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 10}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst3sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 11}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst3sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $-$1, station 3, sector 12}
+\includegraphics[width=\linewidth]{tmpbell_MBwhBst3sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 2}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst1sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 3}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst1sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 4}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst1sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 5}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst1sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 6}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst1sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 8}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst1sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 9}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst1sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 10}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst1sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 11}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst1sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 1, sector 12}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst1sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 2}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst2sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 3}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst2sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 4}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst2sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 5}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst2sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 6}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst2sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 8}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst2sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 9}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst2sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 10}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst2sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 11}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst2sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 2, sector 12}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst2sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 2}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst3sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 3}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst3sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 4}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst3sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 5}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst3sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 6}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst3sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 8}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst3sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 9}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst3sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 10}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst3sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 11}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst3sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel 0, station 3, sector 12}
+\includegraphics[width=\linewidth]{tmpbell_MBwhCst3sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 2}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst1sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 3}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst1sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 4}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst1sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 5}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst1sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 6}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst1sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 8}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst1sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 9}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst1sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 10}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst1sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 11}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst1sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 1, sector 12}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst1sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 3}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst2sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 4}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst2sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 5}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst2sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 6}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst2sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 8}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst2sec08.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 9}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst2sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 10}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst2sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 11}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst2sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 2, sector 12}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst2sec12.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 2}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst3sec02.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 3}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst3sec03.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 4}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst3sec04.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 5}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst3sec05.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 6}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst3sec06.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 9}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst3sec09.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 10}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst3sec10.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 11}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst3sec11.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Wheel $+$1, station 3, sector 12}
+\includegraphics[width=\linewidth]{tmpbell_MBwhDst3sec12.png}
+\end{frame}
+
+\end{document}

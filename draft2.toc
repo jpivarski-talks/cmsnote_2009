@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1}Geometry of the muon system}{4}
+\contentsline {section}{\numberline {2}Description of the global alignment algorithm}{6}
+\contentsline {subsection}{\numberline {2.1}Alignment datasets and track-fitting procedures}{8}
+\contentsline {subsection}{\numberline {2.2}Calculation of super-residuals}{9}
+\contentsline {subsection}{\numberline {2.3}Fitting the super-residuals distribution}{11}
+\contentsline {subsection}{\numberline {2.4}Determining alignment parameters from fits}{13}
+\contentsline {subsection}{\numberline {2.5}Accomodating errors in magnetic field and material budget}{17}
+\contentsline {section}{\numberline {3}Monitoring Tools and Validation/Verification}{21}
+\contentsline {subsection}{\numberline {3.1}Comparison of geometries in the database}{22}
+\contentsline {subsection}{\numberline {3.2}Validating residuals fits}{22}
+\contentsline {subsection}{\numberline {3.3}Muon system maps}{23}
+\contentsline {subsection}{\numberline {3.4}Verification with relative residuals}{26}
+\contentsline {section}{\numberline {4}Global alignment results with collisions Monte Carlo}{28}
+\contentsline {subsection}{\numberline {4.1}Scaling with statistics}{28}
+\contentsline {subsection}{\numberline {4.2}Dependence on tracker misalignment}{28}
+\contentsline {subsection}{\numberline {4.3}Dependence on magnetic field errors}{28}
+\contentsline {section}{\numberline {5}Global alignment results with cosmic ray data}{28}
+\contentsline {subsection}{\numberline {5.1}Validation plots}{28}
+\contentsline {subsection}{\numberline {5.2}Verification with relative residuals}{28}
+\contentsline {subsection}{\numberline {5.3}Verification with stand-alone muon alignments}{28}
+\contentsline {subsection}{\numberline {5.4}Verification with cosmic track splitting}{28}
+\contentsline {section}{\numberline {6}Relative alignment of CSCs with local tracks}{28}
+\contentsline {subsection}{\numberline {6.1}Description of the CSC Overlaps algorithm}{29}
+\contentsline {subsection}{\numberline {6.2}Local CSC alignment parameters}{31}
+\contentsline {subsection}{\numberline {6.3}Specialized trigger and data streams}{32}
+\contentsline {subsection}{\numberline {6.4}Results from the 2008 LHC run}{33}
+\contentsline {subsection}{\numberline {6.5}Extension to align CSC layers}{36}
+\contentsline {subsection}{\numberline {6.6}Verifying the global procedure with local alignment}{37}
+\contentsline {section}{\numberline {7}Alignment outlook for 2009--2010}{39}
